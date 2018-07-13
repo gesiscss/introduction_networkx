@@ -1,0 +1,16 @@
+agent	fact
+a1	f1
+a1	f2
+a1	f3
+a1	f4
+a1	f5
+a2	f3
+a2	f4
+a2	f5
+a2	f6
+a3	f5
+a3	f6
+a3	f7
+a4	f7
+a4	f8
+a5	f9

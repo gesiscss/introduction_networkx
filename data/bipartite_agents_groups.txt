@@ -1,0 +1,6 @@
+agent	group
+a1	0
+a2	0
+a3	1
+a4	1
+a5	1

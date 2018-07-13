@@ -1,0 +1,1031 @@
+agent_id	agent	account_id	account	account_description	party
+0	Florian Köhler	6712152	Cheatha	Musik, Fotografie, Mac, Linux, freie Software, Nerdkram, Piraten, soup.io-Süchtling und @RaumZeitLabor'ant. Tweets CC-BY: http://t.co/O0OVPvLs	Piratenpartei
+1	Alexander Gaus	12870642	alexgaus		Die Grünen
+2	Dennis Deutschkämer	14446872	_rony		Piratenpartei
+3	Malte Spitz	14618956	maltespitz	Mitglied im Bundesvorstand Bündnis 90/Die Grünen Themen: Medien-, Netz-, Bürgerrechtspolitik. Kandidat zur #btw13.	Die Grünen
+4	Thorsten Wirth	14857351	insideX	Humanhedonist, baue gerade am Todesstern und ansonsten bin ich Papa, AK-Vorrat, Datenschützer, Referent, Koch, Fotograf, Bassist, Motorrad, Pirad und Arschloch.	Piratenpartei
+5	Miriam Lakemann	15178979	mueslikind	Weltrettung, Bildung, Politik, Demokratie, Grundeinkommen, Schadstoffe, Soziale Ungleichheit, Seeräuber...	Piratenpartei
+6	Herbert Rusche	15288330	Herusche	Ein Kandidat der hessischen Piraten für den Deutschen Bundestag. http://t.co/Bs0Ke2qXJJ	Piratenpartei
+7	Michael Székely	15437706	mi_szekely	Rechtsanwalt, Vater, liberal	FDP
+8	Johannes Vogel	15630931	johannesvogel	Mitglied des Deutschen Bundestages, Arbeitsmarktpolitischer Sprecher der FDP-Bundestagsfraktion, Mitglied des FDP-Bundesvorstandes	FDP
+9	Michael Vietz	15691333	michaelvietz	Hamelner, Niedersachse, Christdemokrat, Katholik - wer mehr wissen will, fragt...	CDU
+10	Katharina Dröge	15722010	katdro	Vorsitzende Grüne Köln, Bundestagskandidatin für den WK Chorweiler, Ehrenfeld, Nippes Schwerpunkte: Haushalts- & Finanzpolitik; arbeite im Umweltministerium NRW	Die Grünen
+11	Enno Lenze	15761692	ennolenze	Berlin Story Verlag, Historiale Vorstand, Krisengebietsbeauftragter der Piratenpartei BerlinPortrait: Benjamin Bergemann	Piratenpartei
+12	Lars Zillger	15810043	womburger		Piratenpartei
+13	Hubertus Heil	15943222	hubertus_heil	Mitglied des Deutschen Bundestages und stellvertretender Vorsitzender der SPD-Bundestagsfraktion	SPD
+14	Udo Vetter	15998669	udovetter	Strafverteidiger	Piratenpartei
+15	Verony Reichelt	16199455	VeronyReichelt		FDP
+16	Kai Grünler	16254147	gruenler	Was bisher geschah: Geburt, Kindergarten,Schule,Lehre,Arbeiten, Bundeswehr,Arbeiten,Familie,Kinder, noch mehr Arbeiten... und Piraten. Mein Herz schlägt links!	Piratenpartei
+17	Lars Klingbeil	16255941	larsklingbeil	Bundestagsabgeordneter | Wahlkreis Rotenburg I - Soltau-Fallingbostel | Sozi | netzpolitischer Sprecher | Kreativpakt | Verteidigung | Privates & Politisches	SPD
+18	Markus Barenhoff	16309072	alios	Hacker, Pirat, Aktivist, Bierfreund, Segler, ?-punk, Datalover, experimenteller Neuropharmakologe, stv. Vorsitzender piratenpartei.de, Listenkandidat BTW13 NRW	Piratenpartei
+19	Andreas Popp	16312559	AndiPopp	Nerd, Wissenschaftler, Politiker, Kulturoptimist, Raubmordkopierer, Männliche Piratin, Bundestagsliste Bayern Platz 3	Piratenpartei
+20	Dirk Niebel	16325103	dirkniebel		FDP
+21	Hermann-Otto Solms	16325209	solms	«Nur der verdient sich Freiheit wie das Leben, der täglich sie erobern muss.» (Goethe, Faust II)	FDP
+22	Jens Ackermann	16325254	jensackermann		FDP
+23	Birgit Homburger	16325280	birgithomburger		FDP
+24	Rainer Brüderle	16325297	rainerbruederle		FDP
+25	Cornelia Pieper	16325320	CorneliaPieper	MdB, Staatsministerin im Auswärtigen Amt - Stellvertretende Bundesvorsitzende der FDP	FDP
+26	Heinz-Peter Haustein	16325344	haustein		FDP
+27	Philipp Rösler	16325505	philipproesler	Bundesminister für Wirtschaft und Technologie und Bundesvorsitzender der FDP	FDP
+28	Daniel Bahr	16326825	danielbahr	Mitglied des BundestagesBundesminister für GesundheitLandesvorsitzender der FDP-NRW	FDP
+29	Angelika Brunkhorst	16330231	brunkhorst		FDP
+30	Patrick Döring	16330352	patrickdoering		FDP
+31	Michael Kauch	16331023	michaelkauch		FDP
+32	Heinrich L. Kolb	16331151	heinrichkolb		FDP
+33	Marcus Viefeld	16337346	marcusviefeld	webentwickler | segler | digital native | (immer noch) jung und liberal	FDP
+34	Volker Beck	16337664	Volker_Beck	Volker Beck+MP+Green Party Whip +human rights activist+ MdB, Erster Parlamentarischer Geschäftsführer + menschenrechtspolitischer Sprecher Bündnis 90/DIE GRÜNEN	Die Grünen
+35	Horst Meierhofer	16344596	horstmeierhofer		FDP
+36	Patrick Meinhardt	16344613	meinhardt		FDP
+37	Burkhardt Müller-Sönksen	16344683	muellersoenksen	Rechtsanwalt / Lawyer - Bundestagsabgeordneter (FDP) / Member of the German Parliament (Liberal)	FDP
+38	Marina Schuster	16345885	marinaschuster		FDP
+39	Günter Baumann	16361009	guenterbaumann		CDU
+40	Marco Wanderwitz	16361044	wanderwitz	Für das Chemnitzer Umland und das Erzgebirge seit 2002 direkt gewählt im Bundestag. Christdemokrat. Sachse. Vater. Rechtsanwalt. Sachsenring!	CDU
+41	Josef Winkler	16364201	JosefWinkler	MdB (Bündnis 90/ Die Grünen)	Die Grünen
+42	Anke Domscheit-Berg	16557497	anked	Open Government, freedom + transparency activist, pirate, East Germany socialized feminist, helping organizations to break glass ceilings (http://t.co/RJCSgLRh)	Piratenpartei
+43	Marina Weisband	16569660	Afelia	Ich bin eine Dame. Es lebt niemand, der etwas Anderes behaupten könnte.	Piratenpartei
+44	Thomas Lambeck	16605114	Thomas_Lambeck	Pirat, Baden-Württemberg	Piratenpartei
+45	Omid Nouripour	16674128	nouripour	can-do-man	Die Grünen
+46	Tobias Pflüger	16696924	tpflueger		Die Linke
+47	Janosch Dahmen	16697497	janoschdahmen	Direktkandidat zur Bundestagswahl im Wahlkreis 139 - Mitglied im Landesvorstand Bündnis 90/DIE GRÜNEN NRW - Arzt @ BG Unfallklinik Duisburg	Die Grünen
+48	Arfst Wagner	16698636	Arfst_Wagner	(MdB)	Die Grünen
+49	Katja Husen	16737555	katjahusen	och nö.	Die Grünen
+50	Ralf Stegner	16808099	Ralf_Stegner	Landes- und Fraktionsvorsitzender der #SPD in #SchleswigHolstein und Mitglied im SPD Parteivorstand.	SPD
+51	Matthias Schneider	17018386	matthias_duisb	Matthias Schneider, Duisburg	Die Grünen
+52	Simone Lange	17181913	simonelang		SPD
+53	Michael Melter	17201687	ingwerbaer1	politics addicted. traveller in mind & body, incredible in love with love, life, friends & food pirate activities: Co-Pressesprecher, Landesbeauftragter ÖPNV	Piratenpartei
+54	Steffi Lemke	17229513	SteffiLemke	Politische Bundesgeschäftsführerin BÜNDNIS 90/DIE GRÜNEN	Die Grünen
+55	Hermann Ott	17235271	Hermann_Ott	..fighting climate change seems to be my life theme - first as scientist and policy adviser, now as politician...	Die Grünen
+56	Marlene Löhr	17239489	marleneloehr	Direktkandidatin der Grünen zur Bundestagswahl für den Wahlkreis Flensburg-Schleswig, ehem. Landesvorsitzende der Grünen, Europawissenschaftlerin, Muslima	Die Grünen
+57	Matthias Wucherer	17309454	Onophrio		CSU
+58	Sven-Christian Kindler	17343047	sven_kindler	#jüngstes grünes MdB #Mitglied im Haushaltsausschuss #Pfadfinder #Betriebswirt #Themen: #Haushalts-, Sozial- und Wirtschaftspolitik #Antifaschismus	Die Grünen
+59	Ulle Schauws	17363943	ulle_schauws	Frauenpolitische Sprecherin im LandesvorstandBÜNDNIS 90/DIE GRÜNEN NRW, Bundestagskandidatin im WK 114 Krefeld/Moers/N.Vluyn	Die Grünen
+60	Christian Franke	17446510	GruenChristian	Bündnis 90/Die Grünen und Grüne Jugend in Sachsen-Anhalt und der Altmark | Politik-Student der MLU | Kandidat zum 18. Deutschen Bundestag (WK 66 und Platz 6)	Die Grünen
+61	Florian Toncar	17462171	florian_toncar	Florian Toncar MdB	FDP
+62	Lars Castellucci	17469649	larscastellucci	Stellv. Vorsitzender SPD Baden-Württemberg, Kandidat im Wahlkreis 277 (Rhein-Neckar) für die Bundestagswahlen 2013	SPD
+63	Manuel Höferlin	17483463	ManuelHoeferlin	Mitglied des Deutschen Bundestages undVorsitzender FDP LV Net	FDP
+64	Holger Krahmer	17580924	HolgerKrahmer	FDP-Europaabgeordneter I Leipzig	FDP
+65	Martin Schulz	17675072	MartinSchulz	President of the European Parliament. Managed by President Martin Schulz' media and press team. Präsident des Europäischen Parlaments.	SPD
+66	Sven  Jörns	17693737	proofy	is fine	Piratenpartei
+67	Konstantin von Notz	17752770	KonstantinNotz	- Grüner Bundestagesabgeordneter- Mitglied der Enquete IDG- Katastrophenschutz - http://t.co/RRc1JzYvtY	Die Grünen
+68	Bjoern Boehning	17819913	BoehningB	Netz, Politik und Kultur	SPD
+69	Kordula Schulz-Asche	17870195	K_SA	Landesvorsitzende der hessischen GRÜNEN, Stellv. Fraktionsvorsitzende d. GRÜNEN im Landtag, Listen- und Direktkandidatin zur Bundestagswahl 2013	Die Grünen
+70	Manuel Sarrazin	17922403	ManuelSarrazin	MdB, europapolitischer Sprecher Bündnis 90/Die Grünen Bundestag, stellv Landesvorsitzender Grüne HH;  MP, resp.  eu-affairs green group german parliament	Die Grünen
+71	Stefan Müller	17960911	smuellermdb	Bundestagsabgeordneter für Erlangen und Erlangen-Hˆchstadt	CSU
+72	Jimmy Schulz	18000943	jimmyschulz	Mitglied des Deutschen Bundestages, Vater und Freiheitskämpfer, Unternehmerhttp://www.facebook.com/jimmyschulz	FDP
+73	Otto Fricke	18044683	Otto_Fricke	Haushaltspolitischer Sprecher & Parlamentarischer Geschäftsführer der FDP Bundestagsfraktion	FDP
+74	Maria Klein-Schmeink	18103366	MariaKlSchmeink	Grüne MdB, Sprecherin für Prävention und Patientenrechte, Begeistert von Münster,  Radfahren, Bergwandern	Die Grünen
+75	Dennis Rohde	18160122	DennisRohde	Kandidat der SPD für den Deutschen Bundestag im Wahlkreis Oldenburg-Ammerland I Jurist I Schuldnerberater	SPD
+76	Frank Schäffler	18189342	f_schaeffler	Es ist eine Hauptaufgabe des Wettbewerbs zu zeigen, welche Pläne falsch sind.       F. A. von Hayek	FDP
+77	Katrin Hilger	18482511	katrinhilger	Katrin Hilger is PR-consultant @KetchumPleon, Listenkandidatin Piraten Hessen Bundestag, Lifestyle/Blogger. Loves fashion, food, life and opossums. Lives in Ffm	Piratenpartei
+78	Rainer Spiering	18668620	rainerspiering	SPD-Bundestagskandidat im WK Osnabrück, Land.	SPD
+79	Nicole Maisch	18723339	NicoleMaisch		Die Grünen
+80	Kristina Schröder	18761526	schroeder_k	Bundesministerin für Familie, Senioren, Frauen und Jugend // Bundestagsabgeordnete für Wiesbaden	CDU
+81	Karsten Schenk	18865203	Karsten76	Kreistagsabgeordneter im Schwalm-Eder Kreis und Stadtverordneter der Stadt Schwalmstadt.	CDU
+82	Halina Wawzyniak	18866407	Halina_Waw	Halina Wawzyniak ist MdB und stellv. Vorsitzende von DIE LINKE. Hier twittert sie über ihren politischen Alltag. (#buerotweet von den Mitarbeitern)	Die Linke
+83	Björn Sänger	18895808	bjoernsaenger	Mitglied des Deutschen Bundestages, Kreisvorsitzender der FDP im Landkreis Kassel, Gemeindevertreter in Ahnatal	FDP
+84	Serkan Tören	18935259	serkan_toeren	Mitglied im Deutschen Bundestag. Mitglied im Landesvorstand der FDP Niedersachsen. Mitglied im Rat der Hansestadt Stade.	FDP
+85	Manfred Grund	18935360	manfred_grund	Abgeordneter des Wahlkreises Eichsfeld - Nordhausen - Unstrut-Hainich-Kreis I im Deutschen Bundestag	CDU
+86	Thorsten Knott	18956421	thorstenknott	leidenschaftlich liberal - Ihr Kommunalpolitiker in Bornheim und dem Rhein-Sieg-Kreis	FDP
+87	Birgit Reinemund	19080941	BirgitReinemund	Vorsitzende des Finanzausschusses des Bundestags, Kommunalpolitische Sprecherin der FDP-Bundestagsfraktion, Stadträtin	FDP
+88	Helge Braun	19108071	HBraun	Parlamentarischer Staatssekretär bei der Bundesministerin für Bildung und Forschung	CDU
+89	Johannes Lohmeyer	19113853	LohmyDD	Hotelier und Liberaler	FDP
+90	Holger van Lengerich	19148766	gromlix	Ich bin Pirat und Bundestagsdirektkandidat im Wahlkreis 219 München-Ost.	Piratenpartei
+91	Patrick Kurth	19149087	Patrick_Kurth	Generalsekretär FDP Thüringen, Bundestagsabgeordneter	FDP
+92	Christoph Schnurr	19151523	ch_schnurr	Mitglied des Deutschen Bundestages	FDP
+93	Florian Pronold	19257571	FlorianPronold	Florian Pronold ist Landesvorsitzender der BayernSPD, stellv. Vorsitzender der SPD-Fraktion im Deutschen Bundestag	SPD
+94	Rolando Schadowski	19258009	Rolando_FDPHRO		FDP
+95	Nicole Bracht-Bendt	19311913	brachtbendt	ÑNur wer sich einbringt, kann mitgestalten.î	FDP
+96	Mike Nagler	19395922	mnagler	-Jeder Schritt wirklicher Bewegung ist wichtiger als ein Dutzend Programme.-	Die Linke
+97	Bärbel Bas	19438957	baerbelbas	aus Duisburg, Mitglied im Gesundheitsausschuss des Deutschen Bundestages.	SPD
+98	Peter Meiwald	19464497	peternachberlin	Bundestagsdirektkandidat im Wahlkreis 27 Oldenburg-Ammerland Grüner Stadtrat & Kreistagsabgeordneter	Die Grünen
+99	Nina Stahr	19530651	ninastahr	Grüne Direktkandidatin für Steglitz-Zehlendorf. Für mehr Teilhabe von Kindern und Jugendlichen und für eine zeitgemäße Familienpolitik!	Die Grünen
+100	Kurt Höller	19540332	Hoeller	Aufgeschlossen. Konservativ. An der Spitze des Fortschritts. Einfach Bayerisch.	CSU
+101	Heiko Schmidt	19656694	schmidtheiko	Mitglied im Kreisvorstand der GRÜNEN in MSP.Direktkandidat zur Bundestagswahl in MSP&MIL	Die Grünen
+102	Angela Holz	19701749	angelaholz		SPD
+103	Gisela Piltz	19712098	Gisela_Piltz	MdB (FDP), Rechtsanwältin, * 3.12.1964, MdB aus Düsseldorf seit 2002, innenpolitische Sprecherin & stv. Vorsitzende der FDP-Bundestagsfraktion	FDP
+104	Katja Dörner	19738866	katjadoerner	Grüne Bundestagsabgeordnete für Bonn	Die Grünen
+105	Henrik  Eitel	19759833	henrikeitel	Privater Twitter-Account	CDU
+106	Horst Josef Walter Grumich	19763253	Hammett125		FDP
+107	Daniel Brunkhorst	19773649	DrBrunki	Vorsitzender Jusos im Bezirk Hannover - Mitglied im SPD- Bezirksvorstand - Nordstädter...	SPD
+108	Norbert Hense	19775104	norberthense	Pirat - JuPi - Schalker	Piratenpartei
+109	Michael Gerr	19856759	MiGerr	Grün: Parteirat Grüne Bayern, Stadtrat Würzburg, Bezirksrat Unterfranken.Vorstand ISL - Interessenvertretung Selbstbestimmt Leben	Die Grünen
+110	Hans-Josef Fell	19980441	HJFell	Hans-Josef Fell, MdB, Grüner Bundestagsabgeordneter, Energiepolitischer Sprecher	Die Grünen
+111	Dennis Majewski	20044012	dennismajewski	Kandidat zur Bundestagswahl 2013, Historiker, Freidemokrat, Kommunalpolitiker	FDP
+112	Daniel Fahr	20137762	DanielFahr	FDP-Mitglied	FDP
+113	Bernhard Kuske	20159128	oax		FDP
+114	Jan Ulrich Hasecke	20516838	__juh__	Author, Pirate, Tanguero, Advertiser, Open-Source-Evangelist	Piratenpartei
+115	Klaus Meurer	20591067	Mosella		Die Grünen
+116	Volker Wissing	20593301	Wissing	Stellvertretender Vorsitzender der FDP-Bundestagsfraktion, Vorsitzender der FDP Rheinland-Pfalz	FDP
+117	Reinhard Bütikofer	20610385	bueti	MdEP, Ko-Vorsitzender Europäische Grüne Partei, Sprecher der Europagruppe Grüne im Europäischen Parlament	Die Grünen
+118	Philipp Mißfelder	20677269	Missfelder	Vorsitzender der Jungen Union Deutschlands und Mitglied des Deutschen Bundestages, Landesliste NRW, Wahlkreis 122 (Recklinghausen, Castrop-Rauxel, Waltrop)	CDU
+119	Wolfgang Strengmann-Kuhn	20840049	W_SK	Dr. Wolfgang Strengmann-Kuhn, MdB, B90/ Die Grünen, promovierter und habilitierter Volkswirt, WSK steht für Wirtschaft, Soziales, Kompetenz	Die Grünen
+120	Ulrich Kelber	20877217	UlrichKelber	Dipl.-Informatiker, Mitglied des Deutschen Bundestags für die Bundesstadt Bonn	SPD
+121	Rüdiger Kruse	20916357	RuedigerKruse		CDU
+122	Diether Dehm	20986770	Diether_Dehm	Bundestagsabgeordneter Fraktion DIE LINKE	Die Linke
+123	Oliver Luksic	21144568	OlliLuksic		FDP
+124	Alexander Bock	21180594	bpwned	Ein Physiker, der versucht das Sternenfeuer zu stehlen und außerdem zufällig für den Bundestag kandidiert (BY #2).	Piratenpartei
+125	Tobias Lindner	21197524	tobiaslindner	Mitglied des Deutschen Bundestages	Die Grünen
+126	Kevin Schneider	21222184	schneider_2013	Bundestagskandidat der FDP im Wahlkreis 126 - Borken II.	FDP
+127	Kathrin Helling-Plahr	21267421	KatrinHelling	Weil jeder anders ist! - Kandidatin zur Bundestagswahl (FDP)	FDP
+128	Kathrin Vogler	21287514	voglerk	Fraktion DIE LINKE im Deutschen Bundestag, stellvertretende Vorsitzende im Gesundheitsausschuss, Obfrau im Unterausschuss Zivile Krisenprävention	Die Linke
+129	Michael Jungclaus	21312664	mjungclaus	Abgeordneter (GRÜNE/B90) im Brandenburger Landtag. Ausschüsse: Umwelt/Gesundheit/Verbraucherschutz (Vorsitz), Infrastruktur/Landwirtschaft, Petitionen	Die Grünen
+130	Dieter McDevitt	21339038	Mrcalvinhobbes	Pirat aus tiefster Überzeugung - aufgrund unklarer Rechtslage untersage ich das Lesen meiner tweets in der Bundesrepublik Deutschland	Piratenpartei
+131	Caren Nicole Lay	21404382	CarenLay		Die Linke
+132	Christian Szymanek	21484526	cAPSLOCKcHRIS	Direktkandidat der Piratenpartei im Wahlkreis 42 BTW13 webapp developer, website designer. philosopher. musician. volunteer. I was born a baby child.	Piratenpartei
+133	Florian Bernschneider	21504090	fbernschneider	Braunschweigs Abgeordneter für die FDP im 17. Deutschen Bundestag	FDP
+134	Marlene Mortler	21579707	marlenemortler	Bundestagsabgeordnete (Wahlkreis: Nürnberger Land/Roth), Tourismuspol. Sprecherin der CDU/CSU-Bundestagsfraktion, Landesvors. AG Landwirtschaft der CSU	CSU
+135	Ralf Klapdor	21789060	rklapdor	Prof. HS Rhein-Waal, Kreisvors. FDP Kleve-Geldern, Mitglied FDP-Landesvorstand	FDP
+136	Swen Schulz	21791639	swenschulz	SPD-Bundestagsabgeordneter für Berlin-Spandau und Charlottenburg-Nord	SPD
+137	Moritz Körner	21794101	moritzkoerner	Landesvorsitzender Junge Liberale NRW  Bundestagskandidat der FDP	FDP
+138	Simon Weißenfels	21864299	weissenfels	Schwabe-Stadtrat-Ironman-Student-Kreisvorsitzender-Süßen-JU Lavo-WMF BKK Team AST Süßen-Triathlon Bundesliga	CDU
+139	Marc Salgert	22010146	Nobleplac	Wenn mir langweilig ist klingele ich bei Zeugen Jehovas, um mit ihnen über Evolution, Geburtstage und Sex vor der Ehe zu sprechen.	Piratenpartei
+140	Jörg Rupp	22049748	JoergRupp	grüner Blogger, BTW-Kandidat im WK 273, Landesvorstand @GrueneBW, Co-Sprecher der LAG Netz/Medienpolitik von @GrueneBW	Die Grünen
+141	Ekin Deligöz	22125770	ekindeligoez	MdB,stellvertretende Fraktionsvorsitzende B'90/ Die Grünen,Politische Koordinatorin Arbeitskreis V (Wissen & Generation)	Die Grünen
+142	Dennis Klüver	22135027	DKluever	Bürger mit Interesse an Transparenz in der Politik und mehr Demokratie (Pirat)	Piratenpartei
+143	Roland Fischer	22137626	RolandFischer	Bundestagskandidat in München-West/Mitte	SPD
+144	Alexander Brateanu	22139245	digitales_Ich	#linksliberal #Student #Apple-Fanboy #Kulturoptimist Listenkandidat 7 der sächsischen PIRATEN zur #BTW13Bild CC-BY Sebastian Banhart	Piratenpartei
+145	Karin Binder	22142658	karinbinder	MdB DIE LINKE aus Karlsruhe. Fraktionssprecherin für VerbraucherInnenpolitik. Hier twittern Karin Binder und ihr Wahlkreisbüro.	Die Linke
+146	Peter Tauber	22260144	petertauber	MdB, Mitglied Enquete-Kommission Internet und digitale Gesellschaft, Christdemokrat, Historiker, Fuﬂballfan	CDU
+147	Gerrit Koch	22296270	GerritKoch	Rechtsanwalt in Lübeck, mit liberaler Grundausrichtung	FDP
+148	Marcus Faber	22364234	MarcusFaber	stellv. Landesvorsitzender der FDP Sachsen-AnhaltKreisvorsitzender FDP StendalStadtrat der Hansestadt Stendal	FDP
+149	Bärbel Höhn	22900494	BaerbelHoehn	MdB, Grüne, stellvertretende Fraktionsvorsitzende, Themen: Energie, Klima, Verbraucherschutz	Die Grünen
+150	Jan-Marco Luczak	22908417	Luczak2009		CDU
+151	Eva Viehoff	23039801	eva_viehoff	BÜNDNIS 90 / DIE GRÜNEN, 3 Kinder Agraringenieurin,	Die Grünen
+152	Kirsten Lühmann	23142957	kirstenluehmann	SPD-Bundestagskandidatin für den Wahlkreis Celle-Uelzen	SPD
+153	Cansel Kiziltepe	23248102	CanselK	#berlin #xhain #spdxhain #wk83                       #KiezkindCansel	SPD
+154	Isabelle Sandow	23762413	IsabeIIe	liberalistisch denkende Trans* und stolz drauf. http://t.co/jldTL5ojDT (Foto @derUnterstrich)	Piratenpartei
+155	Thomas Büttner	23804205	donbuehl	Web-Developer, 1. Tenor, Pirat, Direktkandidat der Piratenpartei Deutschland zur #BTW13 für Wahlkreis Main Spessart	Piratenpartei
+156	Martin Heidingsfelder	23806441	goalgetter32	Landtagskandidat der Piraten Bayern / Mfr. Dipl.-Kfm. Plagiatssucher 0911 / 80 199 366 Der alleinige Gründer von VroniPlag Wiki & Twitterkabarettist	Piratenpartei
+157	Stefan Ziller	23844729	stefanziller		Die Grünen
+158	Matthias Grüllich-Mack	23922357	sonderwerk	»enthusiasmus ist das schönste wort auf erden«ch. morgenstern	Piratenpartei
+159	Steffen Bilger	23925041	SteffenBilger	MdB für den Wahlkreis Ludwigsburg, Verkehrsausschuß, Parlamentarischer Beirat für nachhaltige Entwicklung, Rechtsanwalt, Bezirksvorsitzender CDU Nordwürttemberg	CDU
+160	Tom Aurnhammer	23959185	TomAurnhammer	Direktkandidat BÜNDNIS 90/DIE GRÜNEN Bundestagswahl 2013 im Wahlkreis 246 Roth	Die Grünen
+161	Kersten Artus	24040647	Kersten_Artus	Betriebsrätin - Journalistin - Bürgerschaftsabgeordnete In Hamburg #hhbue #linksfraktionhh #verdi	Die Linke
+162	Gesine Lötzsch	24178198	Team_GLoetzsch		Die Linke
+163	Cornelius  Dehm	24191367	corneliusdehm		Die Grünen
+164	Maik Außendorf	24253731	maik_aussendorf	Direktkandidat zur Bundestagswahl für B90/GRÜNE im Rheinisch Bergischen Kreis. Sachkundiger Bürger im Infrastrukturausschuss des Stadtrats Bergisch Gladbach	Die Grünen
+165	Christian Carstensen	24668588	carstensen_spd		SPD
+166	Bernd Siebert	24674518	BerndSiebert	Bundestagsabgeordneter, Bezirksvorsitzender der CDU Kurhessen und Waldeck und Kreisvorsitzender der CDU Schwalm-Eder	CDU
+167	Daniel Poznanski	24681345	DanielPoznanski	*6.1.1971 in München geboren, Studium: Diplom-Jurist, Beruf: Verwaltungsdirektor WAM, Geschäftsführer Come-Institut e.V.	FDP
+168	Karin Evers-Meyer	24882525	KarinEversMeyer	Mitglied des BundestagsAbgeordnete für Friesland, Wittmund und Wilhelmshaven	SPD
+169	Maja Tiegs	24887580	FrauMaja	Sie sagen mir täglich Hör auf zu träumen. Ich antworte täglich: Nein![Pirat, Bürotussi, DK 138, Beisitzer im LaVorNRW]	Piratenpartei
+170	Hartfrid Wolff	25053479	Hartfrid_Wolff	www.hartfrid-wolff.de	FDP
+171	Thomas Fehling	25262884	ThomasFehling	Bürgermeister der Stadt Bad Hersfeld	FDP
+172	Jörn Jan Leidecker	25489616	jan_leidecker	That was so much fun :: auf zu neuen Ufern	Die Linke
+173	Gabriele Hiller-Ohm	25816024	GabiHillerOhm	Mitglied des Bundestages (SPD) für Lübeck, Sandesneben und Berkenthin	SPD
+174	Christine Aschenberg-Dugnus	25980076	cad59	Bundestagsabgeordnete,Rechtsanwältin,Stellvertretende FDP-Landesvorsitzende S-H	FDP
+175	Steffen-Claudio Lemme	26102710	SCLemme	DGB Hessen-Thüringen,Mitglied des Deutschen Bundestages	SPD
+176	Elke Ferner	26203837	Elke_Ferner	stellv. Vorsitzende der SPD Bundestagsfraktion, ASF Bundesvorsitzende, Präsidiumsmitglied der SPD	SPD
+177	Dorothée Menzner	26485699	DorotheeMenzner		Die Linke
+178	Kerstin Vieregge	26499748	Huette76		CDU
+179	Michaela Engelmeier-Heite	26713568	michaelaengel	Hier twittert Michaela Engelmeier-Heite, Mitglied des SPD Bundesvorstandes, Vizepräsidentin Deutscher Judo Bund e.V. und Bundestagskandidatin der SPD Oberberg	SPD
+180	Hans-Kurt Hill	26755780	hanskurthill	DIE LINKE.SAAR / Landesvorstandsmitglied, Energiepol. Sprecher, Kreis Saarbrücken, Kreisgeschäftsführer, MdB i.d. 16 Wahlperiode,	Die Linke
+181	Frank Steffel	26869088	franksteffel	Bundestagsabgeordneter des Wahlkreises Berlin-Reinickendorf (Wk 78)	CDU
+182	Katja Kipping	28066013	katjakipping	Mitglied des Bundestages und stellvertretende Vorsitzende der Partei DIE LINKE.	Die Linke
+183	Elisabeth Bröskamp	28179827	broeskamp	GRÜNE Landtagsabgeordnete im Landtag RLP aus dem Kreis Neuwied.Kinder und Familienpolitische Sprecherin.	Die Grünen
+184	Volker Ullrich	28446356	VolkerUllrich	Berufsmäßiger Stadtrat und Ordnungsreferent der Stadt Augsburg - CSU-Kandidat für den Deutschen Bundestag im Wahlkreis Augsburg-Stadt	CSU
+185	Dagmar Wöhrl	28525166	DWoehrl	Bundestagsabgeordnete für Nürnberg-Nord und Vorsitzende des Ausschusses für wirt. Zusammenarbeit und Entwicklung	CSU
+186	Maik Nothnagel	28608048	Maik_Nothnagel	Maik Nothnagel - der andere Politiker	Die Linke
+187	Martin Rosemann	28784085	MartinRosemann	SPD-Bundestagskandidat im Wahlkreis Tübingen-Hechingen	SPD
+188	Thembi Gräntzdörffer	29220587	Thembilein	Hamburgerin / Altona / Ex-Staderin / Pirat / Einen Vorsprung hat, wer schon handelt, während andere noch reden! JFK	Piratenpartei
+189	Petra Hoppenstedt	29530069	Pitti1982		CDU
+190	Filip Heinlein	29574998	FilipHeinlein		Die Grünen
+191	Julia Klöckner	29858729	JuliaKloeckner	Landes- und Fraktionsvorsitzende der CDU Rheinland-Pfalz, stellv. CDU-Bundesvorsitzende	CDU
+192	Martin Hampel	29985593	Azarus	Medien- und Erlebnispädagoge - Weltverbesserer - Bürger Europas - Pirat - und eigentlich immer gut drauf	Piratenpartei
+193	Frank Schwabe	30050484	FrankSchwabe	Direkt gewählt für Recklinghausen, Castrop-Rauxel und Waltrop	SPD
+194	Christian Schwarz	30478074	NineBerry	Dark, Atheist, Pastafarian, Gay, Neo Pagan, Democratic, Straight Edge, Pirate, Electronic, Folk, Cultural Marxist, Sozialromantiker. This is a personal account	Piratenpartei
+195	Sylvia Canel	30495559	SylviaCanel	Mitglied des Deutschen Bundestages, Vorsitzende FDP Kreis Alstertal-Walddˆrfer.	FDP
+196	Viola von Cramon	30507250	ViolavonCramon		Die Grünen
+197	Andreas Rimkus	30838821	SPDuesseldorf	ANDREAS RIMKUS - Kandidat für den Bundestag und Mitglied des Düsseldorfer Stadtrats - für Freiheit, Gerechtigkeit und Solidarität -	SPD
+198	Christian Hufgard	31361233	musikpirat	Mensch, Vater, Ehemann, Urheber, Pirat - und zwar in genau dieser Reihenfolge!	Piratenpartei
+199	Martin Luckert	31415980	MartinLuckert	Staatswissenschaftler (B.A.), Sozialdemokrat, Europäer [Vorsitzender der JEF Thüringen (@jef_th)], Bundestagskandidat	SPD
+200	Karl-Heinz Brunner	31704238	Brunnerkarl		SPD
+201	Sascha Fiek	32162466	SaschaFiek	Geschäftsführer ACADEMY Fahrschule Fiek & Wegner, Stadtrat und Kreisvorsitzender FDP Freiburg	FDP
+202	Franziska Brantner	32323724	fbrantner	Europaabgeordnete für die Metropolregion Rhein-Neckar und außenpolitische Sprecherin Fraktion Grüne/EFA ** MEP and foreign affairs spokesperson Greens/EFA group	Die Grünen
+203	Volkmar Klein	33043294	VolkmarKlein	Mitglied des Deutschen Bundestags, Abgeordneter für Siegerland und Wittgenstein	CDU
+204	Erwin Rüddel	33071479	Erwin_Rueddel	Direkt gewählter CDU-MdB im WK Neuwied-Altenkirchen, 1998-2009 MdL in RLP, Dipl. Betriebswirt, 55 Jahre, verh., 2 Kinder, CDU-Kreisvorsitzender	CDU
+205	Karl Bär	33172351	karlbaer		Die Grünen
+206	Michael Meister	34214048	meister_schafft		CDU
+207	Cem Özdemir	34411666	cemozdemir		Die Grünen
+208	Johannes Kahrs	35687457	jkahrs	Twitter Account von Johannes Kahrs (MdB) und seinem Büro (#bürotweet). 	SPD
+209	Eva Högl	35846585	EvaHoegl	Mitglied des Deutschen Bundestages, SPD, direkt gewählt in Berlin-Mitte	SPD
+210	Franz Thönnes	36048137	franzthoennes	SPD Bundestagsabgeordneter für Segeberg/Stormarn-Nord	SPD
+211	Sönke Rix	36327895	SoenkeRix	MdB / SPD /  RD-ECK	SPD
+212	Christian Kleiminger	36615823	myKleiminger	Ihre Stimme für die Region Rostock im Deutschen Bundestag.	SPD
+213	Burkhard Lischka	36665085	LischkaB		SPD
+214	Thomas Jarzombek	37105136	tj_tweets	Mitglied des Deutschen Bundestages, CDU, Wahlkreis 107 Düsseldorf Nord, Netzpolitiker und Verkehrspolitiker	CDU
+215	Mechthild Rawert	37438947	MechthildRawert	Wenn Sie mehr von mir wissen mˆchten, besuchen Sie mich bitte auf meiner Website	SPD
+216	Christian Hirte	37642893	ChristianHirte	Mitglied des Deutschen Bundestages, WK 190 Eisenach - Wartburgkreis - Unstrut-Hainichkreis II	CDU
+217	Kerstin Tack	37733252	kerstin_tack	SPD Bundestagsabgeordnete für Hannover	SPD
+218	Ralph Brinkhaus	38001527	rbrinkhaus	CDU Bundestagsabgeordneter, Steuerberater in Gütersloh	CDU
+219	Olaf Scholz	38150247	OlafScholz	Hier twittert das Team Olaf Scholz. 	SPD
+220	Paul Schäfer	38168399	paul_schaefer	Verteidigungspolitischer Sprecher der Bundestagsfraktion DIE LINKE	Die Linke
+221	Bettina Stark-Watzinger	38228691	starkwatzinger		FDP
+222	Ulrich Schneider	38467573	ulrich_hn	MdB, Sprecher für Jugendpolitik und bürgerschaftliches Engagement - Bündnis 90 / Die Grünen	Die Grünen
+223	Jürgen Hardt	38467606	juergenhardt	Direkt gewählter Bundestagsabgeordneter (CDU) für den Wahlkreis Remscheid, Solingen, Wuppertal II	CDU
+224	Ernst Dieter Rossmann	38645930	edrossmann		SPD
+225	Christian Bethke	38662915	Christian_B78		Piratenpartei
+226	Markus Schiek	39081317	MSchiek		FDP
+227	Jan Mücke	39176410	jan_muecke	Sachse mit Dresdner Wurzeln, Freier Demokrat, MdB, Parlamentarischer Staatssekretär beim Bundesminister für Verkehr, Bau und Stadtentwicklung	FDP
+228	Norbert Spinrath	39252173	NorbertSpinrath		SPD
+229	Eckhardt Rehberg	39485791	EckhardtRehberg	seit 10.Oktober 2005 Mitglied des Deutschen Bundestages, u. a. Mitglied im Wirtschaftsausschuss und Unterausschuss ERP-Sondervermögen	CDU
+230	Kerstin Griese	39709752	KerstinGriese	Bundestagsabgeordnete (SPD)	SPD
+231	Tankred Schipanski	39938182	TSchipanski	CDU Bundestagsabgeordneter	CDU
+232	Kai Wegner	39999872	kaiwegner	CDU-Bundestagsabgeordneter für Spandau und Charlottenburg-Nord. Generalsekretär der #CDU #Berlin.	CDU
+233	Ole Schwettmann	40294273	oxy83	Lilienthaler, Direktkandidat für die Piraten im WK 34, Osterholz-Verden, 1. Vorstandsvorsitzender der @piratenohz	Piratenpartei
+234	Harald Terpe	40451562	terpeundteam	Harald Terpe (Grüne). Im Bundestag. Für Rostock und Mecklenburg-Vorpommern.	Die Grünen
+235	Kerstin Andreae	41548943	KerstinAndreae	Bundestagsabgeordnete aus Freiburg | Stellvertretende Fraktionsvorsitzende der Grünen Bundestagsfraktion	Die Grünen
+236	Nadine Schön	41840905	NadineSchoen	Bundestagsabgeordnete für den Wahlkreis 298 (Saarland)	CDU
+237	Niels Lohmann	41994074	nlohmann	Tagsüber bin ich Postdoc an der Uni Rostock. Nachts schlafe ich. Zwischendurch bin ich Pirat. Oder andersrum. @ Südstadt Mensa	Piratenpartei
+238	David Lindemann	42191858	dlindemann	Direktkandidat der SPD im Wahlkreis 299, Volljurist, Sportler, derzeit in Brüssel tätig...	SPD
+239	Niels Annen	42401449	NielsAnnen	Mitglied des SPD-Parteivorstands, Bundestagskandidat für den Wahlkreis Hamburg-Eimsbüttel	SPD
+240	Emanuel Kotzian	42631498	EmanuelKotzian	comix, rpg, heavy metal, poltik@piratatenpartei.de; exgreen; absolut european; wive; 0 child; hempaktivist; traveller	Piratenpartei
+241	Roderich Kiesewetter	42698498	RKiesewetter	MdB Wahlkreis Aalen-Heidenheim, direkt gewählt, Auswärtiger Ausschuss, Europa-Ausschuss, Stv Haushaltsausschuss, Schwerpunkt Auﬂen-/Sicherheitspolitik	CDU
+242	Andreas  Romppel	43334572	konkurrenzlos	GRÜNER KV-Vorstand in Wiesbaden | Sprecher LAG Medien- & Netzpolitik in Hessen | AG Amerikapolitik | Politologe & Analyst	Die Grünen
+243	Patrick Sensburg	43537931	PatrickSensburg		CDU
+244	Frank Heinrich	43959185	FrankHeinrich	49 Jahre, Sozialpädagoge und Theologe, '97 bis '09 Leiter der Heilsarmee Chemnitz, seit '09 Bundestagsabgeordneter für Chemnitz, glücklich verheiratet, 4 Kinder	CDU
+245	Steffen Bockhahn	44638528	DerRostocker		Die Linke
+246	Ursula von der Leyen	45194009	vdleyen		CDU
+247	Klaus Peukert	45513907	tarzun	Gelassenheit durch Kompetenz - Kann Ironie/Sarkasmus enthalten - Schmeicheln: http://t.co/yN4kt33ASt	Piratenpartei
+248	Paul Fresdorf	45516372	PaulFresdorf		FDP
+249	Kerstin Radomski	46078935	KerstinRadomski	Bundestagskandidatin für Moers, Neukirchen-Vluyn, Krefeld (Krefeld 2 / Wesel 2)	CDU
+250	Martin Rabanus	46356949	MartinRabanus	Bundestagskandidat im Wahlkreis 179 Rheingau-Taunus-Limburg	SPD
+251	Uwe Kekeritz	46480553	UweKekeritz	Abgeordneter bei @GrueneBundestag, grüner Entwicklungs- und Außenpolitiker, Mitglied im Bayerischen Parteirat der Grünen	Die Grünen
+252	Jörg Kutzer	46878451	Joe_Freece	Wir wenden das, Bundestagswahl 2013, euer Kandidat im Kreis Rhein-Erft II und Euskirchen	Die Grünen
+253	Beate Walter-Rosenheimer	47049428	BeateWaRo	MdBObfrau der Grünen im Ausschuss für Wirtschaft und TechnologieKinderkommissionKreisrätin in Fürstenfeldbruck	Die Grünen
+254	Cornelia Möhring	47056242	Conni_SH		Die Linke
+255	Uwe Feiler	47151012	UweFe		CDU
+256	Sahra Wagenknecht	47375691	SWagenknecht		Die Linke
+257	Volker Kunze	47568063	VKunze	E-Learning, Mobile Learning, Game Based, Serious Gaming, SCORM, SC36, LMS, LCMS, Umfrage, Pirat http://t.co/8TEPv8pG8R	Piratenpartei
+258	Jürgen Klimke	47698123	Klimke_CDU	Bundestagsabgeordneter CDU Hamburg-Wandsbek	CDU
+259	Gerald Albe	47910212	Eubuleus		Piratenpartei
+260	Waltraud Wolff	47940273	waltraud_wolff	Wahlkreis Bˆrde/Jerichower Land. Ausschuss für Umwelt, Enquete ÑWachstum, Wohlstand, Lebensqualitätì, Stellv. Sprecherin ostdeutsche SPD-Bundestagsabgeordnete.	SPD
+261	Thomas Feist	47990090	drthomasfeist	Bundestagsabgeordneter für die CDU in Leipzig, tätig im Ausschuss für Bildung & Forschung und im Unterausschuss Auswärtige Kultur- und Bildungspolitik.	CDU
+262	Marvin Pollock	48064285	Marvin_Pollock	Musiker, Pirat, Nerd, Student, Singer-Songwriter, Kleinunternehmer, Bremer	Piratenpartei
+263	Cornelia Otto	48668233	Tikkachu	People say I'm an idealist. But sometimes I'm not sure if that's meant as a compliment... ???????????	Piratenpartei
+264	Jörg Stroedter	48671548	Stroedter	Engagiert für Reinickendorf	SPD
+265	Alexander Reintzsch	48673034	darkwindhowling		Piratenpartei
+266	Daniel Gruber	48693073	sahne123	Pirat, IT-Mensch, (Fern)-Student, depressive Frohnatur	Piratenpartei
+267	Patrick Linnert	48693867	Pirat_Dev	Pirat mit wechselnder Haarfarbe und Talent sich zu überarbeiten. Vorstand Piraten Mittelfranken + Bundestagskandidat WK245.	Piratenpartei
+268	Thilo Hoppe	48698703	ThiloHoppeMdB		Die Grünen
+269	Dirk Marky	48979719	triplesmart		Piratenpartei
+270	Stefan Täge	49258148	Fussfall	stv. Landesvorsitzender  Baden-Württemberg, Diktator, Dagegen-Stimmer, Gottkaiser	Piratenpartei
+271	Andreas Nick	49450039	DrAndreasNick	CDU-Direktkandidat im Bundestags-Wahlkreis 205 Montabaur (Westerwald/Rhein-Lahn) - Dr. rer. pol. (whu.edu),  M.I.P.P. (sais-jhu.edu), Trustee AICGS (aicgs.org)	CDU
+272	Thomas Brück	49582974	forenwanderer	http://t.co/KDar0zPOYK	Piratenpartei
+273	Florian Bokor	49618309	d1etpunk	Direktkandidat der Piratenpartei im Wahlkreis 152, nördliches Leipzig. Kontakt: Jabber: phlo@borasi.de, Skype: dietpunk, Fon: +491792914597	Piratenpartei
+274	Gudrun Lux	49626583	gudruncita	Fränkin mit Hang zur weiten Welt & Liebe zu Lyrik & guten Argumenten, immer ein 'aber warum' auf den Lippen. Grün & katholisch. Meine Meinung, nicht dienstlich.	Die Grünen
+275	Anne Alter	49976840	Jinx_HH	Vorstandspilz im BZV Eimsbüttel/HH, zu alt für 160 Zeichen, Bundestagskandidatin Wahlkreis Eimsbüttel, PvD (Parteilyrikerin vom Dienst) und Schreibmaschine	Piratenpartei
+276	Benjamin  Braatz	50096711	HeptaSean		Piratenpartei
+277	Pascal Powroznik	50121415	robikraus	verheiratet mit Kind | Ratsmitglied in Münster | Pirat	Piratenpartei
+278	Kai Baumann	50259018	KaiBaumann	NRW Pirat aus AachenPragmatisch, praktisch, gut.Direktkandidat für WK 88 Aachen IIA-Watch: http://t.co/HEJhNmqs	Piratenpartei
+279	Sven Heublein	50285862	SHeublein	#CSU / Kommunalpoltik / Bildung / Social Media / Erinnerungspolitik / Geschichte / Listenkandidat Bundestagswahl	CSU
+280	Stefan Müller	50293029	LcsKandalf	Pirat, Direktkandidat im Wahlkreis 270, Künstler...	Piratenpartei
+281	Andreas Scheuer	50315139	AndiScheuer	CSU-MdB, Wahlkreis Passau	CSU
+282	Rita Schwarzelühr-Sutter	50932086	rischwasu	MdB, SPD Politikerin	SPD
+283	André Martens	50991083	Brainvibes	Software engineer and pirate / Identity in Pirate Wiki: Navigator / PolGF BzV Freiburg / Direktkandidat BTW Freiburg / Landesliste BaWü Platz 4	Piratenpartei
+284	Thomas Gebhart	51483238	thomasgebhart		CDU
+285	Stefan Kaufmann	51752254	StefanKaufmann	Ewiger Stuttgarter! Hier geboren, aufgewachsen und geblieben. Hier ist trotz Bundestagsmandat mein Lebensmittelpunkt.	CDU
+286	Karl Lamers	51797417	karl_a_lamers		CDU
+287	Sven Krohlas	51835710	krohlas	Pirat aus Dettenheim. Bundestagskandidat auf der Landesliste BW, Platz 2.	Piratenpartei
+288	Achim Müller	52005575	acepoint	IT, Chess, Poker, Quoten-Hausmann, Piratenpartei	Piratenpartei
+289	Dieter Janecek	52024480	DJanecek	Chairman @Gruene_Bayern. Tweets in German and English. The Great Transformation, Energy Transition, Mobility, Green Industry, Rock'n'Roll. transformateure.de	Die Grünen
+290	Ingo  Höft	52059372	Stop_Secret	mein Name ist Ingo Höft,ich bin Pirat.Ich twittere hier ausschließlich privat	Piratenpartei
+291	Agnes Petra Müller	52108062	petramuellerFDP		FDP
+292	Marco Bülow	52119203	marcobuelow	stellvertretender Energiepolitischer Sprecher der SPD-Bundestagsfraktion	SPD
+293	Tobias Debuch	52329987	tobias_debuch	Es geht um Musik.	FDP
+294	Sven Sladek	52380955	DerFizz	Sozialpirat. Kommunalpirat in Soest. Vorerst im Urlaub.	Piratenpartei
+295	Harald Ebner	52431948	ebner_sha	Mitglied des Deutschen BundestagsSprecher der grünen Bundestagsfraktion für Agrogentechnik	Die Grünen
+296	Matthias Zimmer	52994606	matthiaszimmer	Ihr Frankfurter Abgeordneter im Deutschen Bundestag	CDU
+297	Elke Bouillon	53028695	SoelkeB		Die Grünen
+298	Matthias Knoche	53083047	MatthiasKnoche	Sprecher des Kreisverbandes Marburg BiedenkopfBÜNDNIS90/DIE GRÜNEN	Die Grünen
+299	Tabea Rößner	53351462	TabeaRoessner	BÜNDNIS 90/DIE GRÜNEN - Mitglied des Bundestags 2009-2013	Die Grünen
+300	Nico Tippelt	53369932	NicoTippelt	Abgeordneter im Sächsischen Landtag. Neue Kraft für Sachsen!	FDP
+301	Beate Müller-Gemmeke	53426644	GrueneBeate	Hier twittern die Bundestagsabgeordnete und Sprecherin für ArbeitnehmerInnenrechte #Beate und ihr #Team.	Die Grünen
+302	Andreas Schwarz	53617577	schwarz_spd	SPD Bundestagskandidat für Bamberg und Forchheim Andreas Schwarz.	SPD
+303	Jochen Jehle	53685972	jochenjehle	Für Deutschland: Wirtschaftsstark - sozial gerecht - nachhaltig	SPD
+304	Carsten Müller	53945479	CarstenMuellers	Bankkaufmann, Rechtsanwalt, Bundestagsabgeordneter	CDU
+305	Marc Großjean	53945842	jimraynor99	Stellvertretender Vorsitzender der Piratenpartei Saarland; Jura Student; Trekkie	Piratenpartei
+306	Reinhold Schmalzbauer	54298784	Reinhold_75	Dinge ins Rollen bringen!++ Direktkandidat B90 / Die GRÜNEN zur   BTW2013 für Wahlkreis Schwandorf / Cham	Die Grünen
+307	Andreas Pittrich	54373906	RhoTep	Mathematiker und Philosoph	Piratenpartei
+308	Ingo Wellenreuther	54535670	Wellenreuther		CDU
+309	Gerhard Kalinka	54539198	gkalinka		Die Grünen
+310	Johannes Ponader	54545980	JohannesPonader	Theatermensch, Autor, Pirat. Nicht mehr Politischer Geschäftsführer der Piratenpartei Deutschland :)	Piratenpartei
+311	Bernd Malmberg	55769496	BerndMalmberg	Vorsitender DIE LINKE. Großheide-Hage	Die Linke
+312	Tobias Stephan	55814144	XTraTobi	Krähennest Podcaster - Blog: http://t.co/G5pQMRnLNs	Piratenpartei
+313	Hermann Stubbe	55931264	StubbeSaerbeck	Lehrer, Schulgründer, Grüner: trotz allem optimistischer Weltverbesserer	Die Grünen
+314	Nathanael Bienia	56057726	Nefacus	Student der betriebswirtschaftlichen Steuerlehre und Wirtschaftsprüfung | Liberal | Unternehmer | Schatzmeister der Piratenpartei Baden-Württemberg	Piratenpartei
+315	Carmelito Bauer	56105006	Detherion	Mit #Liebe durch die Welt gehen.; Gründer der Jungen Piraten; Studiere Philosophie; Landesliste Platz 8 #BTW13 #9Gefährten #Piraten; Foto @hkos Vielen Dank!	Piratenpartei
+316	Sebastian Nerz	56118316	tirsales	Twitter fehlt die Option DMs zu deaktivieren.	Piratenpartei
+317	Michael Fuchs	56670083	drmfuchs	Bundestagsabgeordneter stv. Vorsitzender der CDU/CSU Bundestagsfraktion	CDU
+318	Stephan Harbarth	56762889	stephanharbarth		CDU
+319	Patrick Schiffer	56767791	pschiffer	Human Rights & Freedom Fighter. European pirate with an arab mentality. Media designer & project manager. Loves Women. Multilingual. Photo by @bartjez	Piratenpartei
+320	Rainer Arnold	56990207	rainerarnold	Mitglied des Deutschen Bundestages, Verteidigungspolitischer Sprecher der SPD-Bundestagsfraktion	SPD
+321	Sören Bartol	57293969	soerenbartol	Bundestagsabgeordneter im Wahlkreis Marburg-Biedenkopf	SPD
+322	Hans-Jürgen Licht	57360323	HJLicht1		SPD
+323	Julia Rott	57703291	ynedra	Schokolade. Politik. Piratenpartei. IBKA.Foto von bartjez.	Piratenpartei
+324	Dennis Rademacher	57928997	RademacherDenn	Sex, Drugs and Electro	FDP
+325	Olav Gutting	58429842	olavgutting		CDU
+326	Kees de Vries	58777977	KEESdeVriesCDU	CDU-Direktkandidat im Wahlkreis Anhalt (72) für die Wahl zum Deutschen Bundestag	CDU
+327	Karl Lauterbach	58937730	karllauterbach		SPD
+328	Christopher Lauer	59085146	Schmidtlepp	Sorry dude, but you are the guy who came with a knife to a gunfight …	Piratenpartei
+329	Thorsten Majer	59097330	thorstenmajer	SPD- Bundestagskandidat für den Wahlkreis Neckar-Zaber, Rechtsanwalt, Kabarettist	SPD
+330	Stefan Urbat	59542471	Stefan_Urbat	Pirat, Dipl.-Phys., Kandidat Listenplatz Nr. 6 für die 18. Bundestagswahl 2013, LV s. http://t.co/9eK3jRfVdEFan von http://t.co/kNVrwbBboi	Piratenpartei
+331	Michael Büker	60089271	emtiu	Fremdsprachen, Astroteilchenphysik, Gesellschaft, science communication, Linux, Basteleien, SciFi. Irgendwas mit Kommunalpolitik. Antichrononormative Aktion.	Piratenpartei
+332	Herbert Förster	60155146	Herb_Foxley	Pirat, Stadtverordneter in Frankfurt am Main, TeeSommelier, SciFi-Fan, http://t.co/IWcSKbKW	Piratenpartei
+333	Olaf Mangold	60583560	olafmangold		SPD
+334	Monika Lazar	60630139	monikalazar	sächsische Bundestagsabgeordnete Bündnis90/ Die Grünen	Die Grünen
+335	Anja Müller	60985121	linkeanja		Die Linke
+336	Bernd Schreiner	61000047	BerndSchreiner	Zeitreisender Vater·Pirat seit Imhotep | Website Piratenpartei.de · Themenbeauftragter Umwelt |	Piratenpartei
+337	Nadja Bühren	61225384	nadjabuehren	Vorsicht Private Gedanken	Die Linke
+338	Manfred Behrens	61577387	Manfredbehrens	Ortsbürgermeister, Kreistagsabgenordneter und  Bundestagskandidat	CDU
+339	Knut Korschewsky	61594385	KKorschewsky	Landesvorsitzender DIE LINKE Thüringen und Mitglied des Thüringer Landtages	Die Linke
+340	Holger Krestel	61751669	HolgerKrestel		FDP
+341	Mario Klotzsche	61773124	Klotzsche	Vorsitzender FDP Fraktion Kreistag Fulda	FDP
+342	Sandra Koch	62221513	SandyKoch		SPD
+343	Peter Friedhoff	62264607	Peter_Friedhoff	Peter Friedhoff, FDP Kandidat für den Deutschen Bundestag im Wahlkreis 33, Cloppenburg/Vechta	FDP
+344	Jürgen Eggers	62295475	juergeneggers		Die Linke
+345	Wilhelm Priesmeier	62457691	Dr_W_Priesmeier		SPD
+346	Yvonne Ploetz	62470279	YvonnePloetz	Bundestagsabgeordnete der LINKE; Politikwissenschaftlerin	Die Linke
+347	Katharina Fegebank	63158667	fegebanks	Landesvorsitzende Grüne Hamburg, Mitglied der Grünen-Bürgerschaftsfraktion (MdHB), wissenschaftliche Mitarbeiterin (Leuphana Universität Lüneburg)	Die Grünen
+348	Steffen Kanitz	63244000	steffenkanitz	Politiker aus Dortmund - für Dortmund	CDU
+349	Jens Seipenbusch	63738086	Seipenbusch	studied physics, working IT, being political pirate, mailto:js@piratenpartei.de	Piratenpartei
+350	Martin Lindner	63745683	martin_lindner	FDP Mitglied Abgeordneter im Deutschen Bundestag	FDP
+351	Udo Rauhut	64063618	udotopia		Die Linke
+352	Stefan Körner	64148740	sekor	Pirat, Vorsitzender LV Bayern, hier privat u politisch, ernst u ironisch. Auch Idealist und Weltverbesserer. http://t.co/CAcKTTKRAK	Piratenpartei
+353	Christian Petry	64159881	Medusa65	65er	SPD
+354	Stefan Zierke	64220313	zierke		SPD
+355	Hartmut Koschyk	64377390	koschyk	Mitglied des Deutschen Bundestages in Berlin für die Region Bayreuth/Forchheim	CSU
+356	Sebastian Michael Körber	64515042	sebastian0505	Architekt*Mitglied Landesvorstand FDP Bayern*jüngster bayerischer Bundestagsabgeordneter*Bau-und Verkehrspolitiker	FDP
+357	Jan Kastner	64516663	KollegeJansen	Pirat, Hedonist, Alternativ, Anarchist, Atheist, Antifaschist und liberal!	Piratenpartei
+358	Ralf Hofmann	64972243	ralfhofmann_sw		SPD
+359	Susanne Wiest	64993777	susannewiest	Bedingungsloses Grundeinkommen von Allen für Alle 173 7692644	Piratenpartei
+360	Klaus Ernst	64994645	ernst_klaus	Vorsitzender der Partei DIE LINKE	Die Linke
+361	Priska Hinz	64998836	PriskaHinz	Grüne, MdB	Die Grünen
+362	Bettina Lau	65071647	LucyVerona	attac Koblenz	Die Linke
+363	Sandra Tiedtke	65855034	Sandra_Tina	Alles ist Klasse - wie immer! Und Bibliophil !!!!http://t.co/GnOmpFmdhz(Profilfoto by bartjez CC-BY-SA)	Piratenpartei
+364	Christian Alkemper	65874066	BlackBuccaneer	Begeisterter Übersetzer, liebender Papi, unproduktiver Musiker. Und: leidenschaftlicher Pirat! Schwerpunkte: UrhR, Bildung. Stellv. KV-Vorstand @PiratenKVKALand	Piratenpartei
+365	Karin Strenz	66111283	KarinStrenz		CDU
+366	Karl-Heinz Starck	66139654	khsta		CDU
+367	Sabine Leutheusser-Schnarrenberger	66651957	sls_bmj	Hier twittert die Pressestelle des Bundesjustizministeriums.	FDP
+368	Hans-Joachim Fuchtel	66750542	fuchtel	Parlamentarischer Staatssekretär im Ministerium für Arbeit und Soziales - Bundestagsabgeordneter für den Wahlkreis 280 Calw - Freudenstadt	CDU
+369	Susanna von Dewitz	66792063	suzophren		Piratenpartei
+370	Holger Hennig	67041547	Hollarius	Theatermacher, Blogger ... ach ja, Pirat ;) ... auf der Suche nach Projekten	Piratenpartei
+371	Barbara Höll	67265247	BarbaraHoell	Mitglied des Deutschen Bundestages / Stellv. Fraktionsvorsitzende DIE LINKE 	Die Linke
+372	Dirk Marx	67277210	dirkmarx	Die frage ist, was kannst du für den Staat tun und nicht was er für dich .	CDU
+373	Frank Steinert	67473242	Dreamman72		Piratenpartei
+374	Ulrich Lange	68172699	UlrichLange		CSU
+375	Brigitte Pothmer	68394879	BrigittePothmer		Die Grünen
+376	Andreas Bist	68509043	Andreas_Bist	FDP Brüggen Ortsverbandsvorsitzender,  Stellv. Fraktionsvorsitzender der FDP Fraktion Brüggen, 3. Stellv. Bürgermeister und Bundestagskandidat, Liberal	FDP
+377	Mark Neis	68690820	einfachnurmark	Exil-Saarländer, in Chemnitz gestrandet. Wahlkampfkoordinator der Piraten in Sachsen. Lesen wäre eine bevorzugte Beschäftigung, wenn ich dafür Zeit hätte...	Piratenpartei
+378	Janina Pfau	68739620	Janinapfau	DIE LINKE Vogtland	Die Linke
+379	Martina Renner	68920005	MartinaRenner		Die Linke
+380	Kathrin Senger-Schäfer	69373152	senger_schaefer	Hier ist DIE LINKE.	Die Linke
+381	Ralf Überheim	69695845	Wahl30		FDP
+382	Peter Beyer	69814084	PeterbeyerCDU		CDU
+383	Markus Tressel	70375580	Markus_Tressel		Die Grünen
+384	Claudia Roth	70627400	GreenClaudia	The Future is GREEN!	Die Grünen
+385	Stefan Wagener	70671964	stefanwagener	Fraktionsvorsitzender Grüne Stadtratsfraktion Aschaffenburg. Grüner Bundestagskandidat im Wahlkreis Aschaffenburg.	Die Grünen
+386	Hans Werner Ehrenberg	71197800	HW_Ehrenberg		FDP
+387	Sebastian Lindner	71221591	lindner86	Student	SPD
+388	Rüdiger  Bender	71533386	RuedigerBender		Die Grünen
+389	Frank Grenda	71575383	Eiself	Piratenpartei DüsseldorfDirektkandidat zur BTW 2013 in WK 106	Piratenpartei
+390	Özcan Mutlu	73088949	OezcanMutlu	MdA - Member of the House of Representatives Berlin - Milletvekili - Direktkandidat für den Deutschen Bundestag Berlin-Mitte (WK-75)	Die Grünen
+391	Rosemarie Hein	73468394	RosemarieHein	Bundestags-Direktkandidatin im Wahlkreis 70 (Magdeburg-Schˆnebeck)/ Mitglied im Parteivorstand DIE LINKE	Die Linke
+392	Jörg von Polheim	73488204	FDP_Oberberg	Bäckermeister, Bauingenieur, Kreisvors. der FDP Oberberg. Am 27.09.2009 bewerbe ich mich um ein Mandat im deutschen Bundestag	FDP
+393	Bruno Kramm	73597791	BrunoGertKramm	Bayerischer Listenkandidat für BTAG Wahl, Pol.GF Piraten BY, Urheberrechtsbeauftragter, Urheber, Labelmacher	Piratenpartei
+394	Andreas Rohde	73860956	Andi_nRw		Piratenpartei
+395	Frank Büning	74095172	FrankBuening		Die Grünen
+396	Vincent  Thenhart	74798118	vincNW	GenSek der Piratenpartei Rheinland-Pfalz (@piratenrlp). Rheinland-Pfälzischer Spitzenkandidat und Direktkandidat im Wahlkreis 209 zur Bundestagswahl 2013.	Piratenpartei
+397	Stephan Thomae	75005687	StephanThomae	Mitglied des Deutschen Bundestages	FDP
+398	Nicole Britz	75604831	dyfustic	Nikki 'dyfa' Britz, Piratenpartei, Listenkandidatin Bayern BTW2013, Beisitzerin LV Bayern, Wortspielhöllenteufel, Plüschrattenfan, bisweilen bissig, oft albern.	Piratenpartei
+399	Benjamin Wildenauer	77046954	brk_bewild	Pirat - Unterfranke - Rhöner - aufstrebend und untergehend - kann Spuren von Sarkasmus enthalten - BTW-Direktkandidat im Wahlkreis 248 -	Piratenpartei
+400	Ulrich Schumacher	77739677	florian_turm	pirat	Piratenpartei
+401	Michael Kost	77752246	KostMichael		Die Grünen
+402	Guido Westerwelle	78131857	guidowesterwell	Alle Nachrichten über mich hier rund um die Uhr.	FDP
+403	Norman Gabler	78648808	Nogawi		FDP
+404	Sandra Yvonne Stieger	80270962	Sandra_Yvonne		CDU
+405	Charles M. Huber	81142025	charlesmhuber49	Kandidat der CDU Darmstadt für den Bundestag. Candidat as a congressman German federal elections 2013 for CDU party Former actor DER ALTE- THE OLD FOX-125 count	CDU
+406	Holger Kipp	81333789	mr_wartung	Nerd. Trekkie. Pirat. Fan of the Doctor and of Sherlock Holmes. Alle Tweets und Bilder CC-BY. Private Account.	Piratenpartei
+407	Manuel Nehmer	82159176	M_Nehmer		FDP
+408	Daniel Kern	82665871	KernDaniel	Teamleiter Vermietung, Kaufmann der Grundstücks- und Wohnungswirtschaft bei der EPM WOHNEN GmbH, Kreisvorsitzender JU SÜW, stellv. CDU Kreisvorsitzender SÜW	CDU
+409	Wolfgang Krichel	82837935	wkrichel	Stellvertretender Landesvorsitzender der FDP SaarVorsitzender der FDP Stadtverband Saarlouis, Versicherungs- und Immobilienmakler	FDP
+410	Aydan Özoguz	83342791	oezoguz	Mitglied des Deutschen Bundestages	SPD
+411	Johannes Steiniger	83474160	JoSteiniger	Johannes Steiniger//Mathe & Politikw. Mannheim//Landesvorsitzender der JU RLP//Stadtrat Bad Dürkheim//	CDU
+412	Bastian Halbe	83579566	FreiBastiHeit	Nicht auf die Masse der Menschen kommt es an,sondern auf die Kraft der Überzeugung die sie im Herzen habenHerzpirat*Hobbyautor*Idealisthttps://t.co/OQmCDoPc	Piratenpartei
+413	Sebastian Lüdecke	84679323	SebastLue	Landesvorsitzender Bündnis 90/Die Grünen Sachsen-Anhalt	Die Grünen
+414	Wiebke van den Berg	85092820	vanwieb	Katzenmama, Serienjunkie, Buchhalter mit Rechenmaschine, Mensch mit Organspendeausweis, Pirat	Piratenpartei
+415	Andreas Kröger	85296489	Andy_1982	Rechtsanwalt | Sozialdemokrat | Lingener | ? | Landtagskandidat | SPD Stadtverband Lingen (Ems) | SPD Ortsverein Lingen (Ems) | Jusos Lingen	SPD
+416	Jan Niklas Fingerle	86101036	jnfingerle	Diverses Gezwitscher. Kann Pirateninhalte enthalten. Und Ironie oder Sarkasmus. Auf einmal. You have been warned. +49 163 1751173	Piratenpartei
+417	Andrej Hunko	87281380	AndrejHunko	#MdB für Die Linke (Angelegenheiten der EU), Mitglied der Parlamentarischen Versammlung des Europarates (Gesundheit, Soziales, Familie & politischer Ausschuss)	Die Linke
+418	Nicolas Katte	87321853	nicolaskatte		FDP
+419	Maik  Nauheim	88412327	JustElex	Lokalpirat aus dem Westerwald, Planer, chaot, unberechenbar	Piratenpartei
+420	Oliver Krischer	88630242	Oliver_Krischer	Mitglied des Deutschen Bundestages und sein Team	Die Grünen
+421	Birgitt Piepgras	88686990	hekate15	Pirat AG Landwirtschaft und verwandte AGsLepidopterologin	Piratenpartei
+422	Lena Rohrbach	89238176	Arte_Povera	“Und welche Freiheit dann das erste Nein: Nein, ich will etwas andres.”	Piratenpartei
+423	Andreas Neugebauer	89918770	Didiman2000	Pirat aus Delmenhorsthttp://t.co/R7Nc8hdK2MKaraoke Jockey: http://t.co/2f9jhAg4px	Piratenpartei
+424	Manfred Büddemann	90021238	M_Bueddemann		Die Linke
+425	Klaus Benndorf	90032127	sualkbn	2. Vorsitzender Piratenpartei Bonn	Piratenpartei
+426	Jan Lüdtke-Reißmann	90046967	Jan_LR	Schatzkistenpirat im BzVStgt Kandidat der PIRATEN zur Bundestagswahl 2013 im Wahlkreis 262 Nürtingen-Filder und Landesliste Platz 10 (brauchen also nur 16% ;))	Piratenpartei
+427	Erik Schweickert	90649183	ErikSchweickert	FDP-Abgeordneter im Deutschen Bundestag, Professor für Internationale Weinwirtschaft, Kreis- und Gemeinderat	FDP
+428	Sina Doughan	90704230	SinaDoughan	Bundessprecherin GRÜNE JUGEND, Bundestagskandidatin Direktwahlkreis 241, Listenplatz 15 B90 Grüne Bayern	Die Grünen
+429	Lars Schellhas	90888927	larsschellhas		Die Grünen
+430	Jens-Wolfhard Schicke-Uffmann	92904426	Drahflow	int main() { ((int (*)())(''\xbf*\0\0\0\xb8\x3c\0\0\0\x0f\x05''))(); }	Piratenpartei
+431	René Rottmann	93202574	evtl_	Ein transparenter, basisdemokratischer Steuerrechtspirat, der gerne fahrscheinlosen ÖPNV nutzen würde.	Piratenpartei
+432	Michael Leutert	93612750	MichaelLeutert	DIE LINKE im Bundestag, Abgeordneter aus Chemnitz, Haushaltspolitiker, Sprecher Landesgruppe Sachsen im Bundestag	Die Linke
+433	Sebastian Blumenthal	93628625	seb_blumenthal	Member of Parliament - Deutscher BundestagHead of Subcommittee New Media 	FDP
+434	Hermann Gröhe	94363834	groehe		CDU
+435	Lars Lindemann	96146500	LindemannMdB	Gesundheitsexperte der FDP-BundestagsfraktionSchatzmeister der FDP Berlin 	FDP
+436	Carsten Schneider	96783215	schneidercar	SPD-Bundestagsabgeordneter	SPD
+437	Mike Nolte	98512503	mikenolte_de	Not your average Sith lord.	Piratenpartei
+438	Bernd Liebhardt	98650391	berndliebhardt	Rechtsanwalt Bundestagskandidat CSU-Fraktionsvorsitzender im Kronacher Stadtrat @csufraktionkc , Kreisgeschäftsführer der Frankenwald-CSU @frankenwaldcsu	CSU
+439	Moritz  Rehfeld	99104604	AdianAntilles	Jede Wahrheit braucht einen Dummen, der sie ausspricht und trotzdem ignoriert. - Captain Ob(li)vious.	Piratenpartei
+440	Thomas Gerwert	100462652	ThomasGerwert	Berater, Interims- und Projektmanager.#Pirat, 2.Vorsitzender des KV #Osnabrueck, #ag_europa, Wahlkampfkoordinator zur #BTW13 der #piratenNds. #piratenpartei	Piratenpartei
+441	Lutz Knopek	101738086	LutzKnopek	Mitglied des Deutschen Bundestages (Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit/Sportausschuss)	FDP
+442	Mukhtaar Sheekh Cali	101828799	mukhtaart	Mukhtaar aus Somalia und seit 1995 in Kiel Lebt.	Die Grünen
+443	Karola Stange	102950144	KarolaStange		Die Linke
+444	Heiko Schulze	103054157	5tee5tee	Pirat - GenSek im Landesvorstand Schleswig-Holstein und LK für die BTW	Piratenpartei
+445	Steffen Kirsch	103397508	SGKirsch	Hardest working clown in showbusiness; Stellv. Bezirksvorsitzender JU Nordwürttemberg, begeisterter Europäer und deshalb EU-Kritiker	CDU
+446	Stephan Kühn	104100946	stephankuehn		Die Grünen
+447	Christian Braun	104284106	sord3	Direktkandidat der #Piraten für den Wahlkreis 29	Piratenpartei
+448	Lübbo Meppen	104831851	suttens		FDP
+449	Marco Buschmann	106136813	MarcoBuschmann	Mitglied des Deutschen Bundestages; Kreisvorsitzender der FDP Gelsenkirchen	FDP
+450	Ute Vogt	106684561	UteVogt	Bundestagsabgeordnete für Stuttgart 1	SPD
+451	Ivica Juresa	107365461	kfurter	Pirat aus Überzeugung	Piratenpartei
+452	Babak Tubis	107766117	WolfSmutje		Piratenpartei
+453	Andreas Rieger	108919420	AndreasRiegerAr		Die Grünen
+454	Gabriel Heinzmann-Jiménez	109193509	The_Fury_Pirat	Vorsitzender JuPis NRW, Personal Assistent v. Daniel Schwerd MdL, Direktkandidat Mettmann II (105), Advocatus Diaboli, Furry: Drache. FurryAccount: @ChiyoDragon	Piratenpartei
+455	Kai Gehring	110368456	KaiGehring	grüner MdB aus Essen/ NRWSprecher für Bildungs- und Hochschulpolitik	Die Grünen
+456	Tino Sorge	110385973	TinoSorge	CDU-Bundestagsdirektkandidat (WK 69)	CDU
+457	Niema Movassat	111054843	NiemaMovassat	Mitglied des Deutschen Bundestages für DIE LINKE;@ Mitglied Linksjugend ['solid] NRW	Die Linke
+458	Christoph Steltner	111716214	nplhse	Irgendwas mit Unfallchirurgie und Gesundheitspolitik. @inside_med. Speaking to no audience.	Piratenpartei
+459	Jonas Aust	115394493	Yonah_	22 Jahre,Pirat	Piratenpartei
+460	Hilde Mattheis	115614153	HildeMattheis	SPD-Abgeordnete des Deutschen BundestagsVorsitzende des Forum DL21	SPD
+461	Gerwald Claus-Brunner	118462098	RealDeuterium	Battle without Honor or Humanity !Mitglied des Abgeordnetenhauses von Berlin 17. Wahlperiode G. F. Brunner	Piratenpartei
+462	Christian Lindner	122104353	c_lindner	Mitglied des Deutschen BundestagesGeneralsekretär der FDP	FDP
+463	Christoph Brückmann	123549610	Mitgezwitschert	Crossmedia Social-Web Nerd. Vegetarier. Skeptiker. Blogger. Pirat (stellv. Vorsitzender Potsdam). Optimist. Anarchistisch. Manchmal ziemlich mitgezwitschert.	Piratenpartei
+464	Luise Amtsberg	126058461	Luise_Amtsberg	grüne Kandidatin zur Bundestagswahl 2013	Die Grünen
+465	Adnan Sabah	127334106	ASabah1		SPD
+466	Thomas Wagener	129618618	ThomasWagener		Die Grünen
+467	Andreas Jacob	131106179	janetworkx	Selbständiger Admin Linux, Windows abgebrochenes Informatikstudium ;-) weltoffen aber heimatverbunden (Rhön)Pirat @Wartburgpiraten Direktkandidat WK190	Piratenpartei
+468	Marcel Schiller	131208659	MarcelSchiller		FDP
+469	Robert Streng	131768534	roffl1990	Vorsitzender des Bezirksvorstands Oberfranken und Direktkandidat im Wahlkreis 236 der Piraten. Mitglied im Bezirksvorstand des ZDS Oberfranken.	Piratenpartei
+470	Annette Weinreich	133669609	a_weinreich	Bundestagskandidatin Ulm/Alb-Donau, Stadträtin Grüne Fraktion Ulm	Die Grünen
+471	Anja Weisgerber	133770069	anjaweisgerber		CSU
+472	Gabi Dobusch	136561804	GaDoXX		SPD
+473	Thomas Küppers	137977444	kueppie2001	Sozialpolitischer Beauftragter, Piratenpartei Deutschland	Piratenpartei
+474	Sevim Dagdelen	139407967	SevimDagdelen	Studium der Rechtswissenschaften. Journalistin. Bundestagsabgeordnete der Partei DIE LINKE	Die Linke
+475	Dorothee Bär	140821364	DoroBaer	Mitglied des Deutschen Bundestages, stv. Generalsekretärin der CSU	CSU
+476	Veit Göritz	140858289	VeitGoeritz	Segler, Mensch, Pirat, politischer Geschäftsführer LV Brandenburg.	Piratenpartei
+477	Johannes Reichhardt	141906748	PiratJones	Direktkandidat BTW 2013 - Wahlkreis 238Piratenpartei Kreisverband KronachTerminal Geek and Debian Linux loverDrug education and Drug checking needed!	Piratenpartei
+478	Uwe Stein	142394493	Mitkrieger	Multikanal mit InternetanbindungMottos: Trau' keinem Twitteraccount!Hab' ich nicht mitgekriegt!PIRATEN D'dorfPrivataccount des Pressesprechers @PiratenNRW	Piratenpartei
+479	Irene Mihalic	143000381	IreneMihalic	Bundestagskandidatin GRÜNE NRW auf Listenplatz 7 und im Wahlkreis 123 Mitglied im LandesvorstandBÜNDNIS 90/DIE GRÜNEN NRW@gruenenrw	Die Grünen
+480	Valentin Brückel	143940163	bridgerdier	I am Grey. I stand between the candle and the star.We are Grey - We stand between the darkness and the light.	Piratenpartei
+481	Arne Hattendorf	144126313	BigArne		Piratenpartei
+482	Hartmut Ernst	144151299	HartmutE		Piratenpartei
+483	Kim Julia  Orth	144228376	Piratenbraut10	Pirat. Vorsitzende des Kreisverbands Südpfalz. Direktkandidatin des Wahlkreises 212 und Listenkandidatin für die BTW. Geograph, Philosoph, Pädagoge und ...	Piratenpartei
+484	Dietmar Lust	144243755	didilust	Update 4.0 Radler aus Ueberzeugung, Geocacher (LACKI), Gruener, BTW Kandidat im WK 280Energiesparer, lust-kg.de verliebt, vergeben an @mokusch_	Die Grünen
+485	Anne Helm	145180684	SeeroiberJenny	Das ist keine Kostenloskultur, das ist Postmaterialismus.http://t.co/OikvWcmvbA030 60983147	Piratenpartei
+486	Memet Kilic	145217142	Memet_Kilic	Im Bundestag für Pforzheim/Enzkreis, BÜNDNIS 90/DIE GRÜNEN	Die Grünen
+487	Henning Lübbers	145273101	H_Luebbers	Direktkandidat WK 68. Pirat. Bürgerrechte, Transparenz, und Bürgerbeteiligung, dafür stehe ich.Piratiges,privates und Unsinn. Photo: CC-BY-SA/Photo:BARTJEZ.cc	Piratenpartei
+488	Andreas Müller	145773172	Valencamueller	Abi, Gleisbauer, Jurist, Gewerkschaftssekretär, Tarifsekretär, Vorsitzender der LINKEN Kreistagsfraktion im Main Kinzig Kreis, Direktkandidat BundestagsWK 175	Die Linke
+489	Jens Koeppen	146376562	JensKoeppen	Mitglied des Deutschen Bundestages, Elektrotechniker, Unternehmer	CDU
+490	Andreas Gärtner	146840390	4ndy63		Piratenpartei
+491	Heide Hagen	147260183	8undaf	The enemy isn't men, or women, it's bloody stupid people and no one has the right to be stupid. Terry Pratchett	Piratenpartei
+492	Mariana Pinzón Becht	149862627	MarianaPinzonBe	Sprecherin des Bundesweiten Arbeitskreis Säkulare Grüne und AK Säkulare Grüne BWSprecherin LAG InternationalesKandidatin BTW Landesliste #31	Die Grünen
+493	Markus Kurth	150188536	markuskurthmdb	Sozial- und behindertenpolitscher Sprecher von Bündnis 90/Die Grünen im Deutschen Bundestag	Die Grünen
+494	Heike    Brehmer	150372237	HeikeBrehmerMdB		CDU
+495	Philipp Herbold	150566765	PHerbold		FDP
+496	Michael Schlecht	151173601	mschlecht	Mannheimer Bundestagsabgeordneter der LINKEN und Chefvolkswirt der Linksfraktion im Bundestag	Die Linke
+497	Klaus Krützen	153423216	klauskruetzen	Bundestagskandidat der SPD im Wahlkreis 108 (Neuss I)	SPD
+498	Matthias Heider	154064825	MatthiasHeider	1966 in Lüdenscheid geb., Abitur 1985,  Rechtsanwalt Dr. Jur., Mitgl. des 17. Deutschen Bundestages (CDU) seit 2009 - Ausschuss für Wirtschaft und Technologie	CDU
+499	Alexandra  Heinen	154816893	alexandraheinen		CDU
+500	Ayten Kaplan	155525407	kaplanayten	Ayten KAPLAN	Die Linke
+501	Martin van Elten	155990872	junggruen	GRÜNE JUGEND-Bundestagskandidat (Grüne Thüringen, Listenplatz 4), Foto von Tino Sieland (CC-BY-SA), mehr über mich: http://t.co/pSg05N6ErK #btw13	Die Grünen
+502	Robert Schuldt	156186959	ShintaNB	Baujahr 77 | Single | Pirat seit 2009	Piratenpartei
+503	Moritz von Allwörden	156198644	MoritzvA		Piratenpartei
+504	Manuel Kramer	156273209	ManuelKramer		SPD
+505	Mustafa Akpolat	156715211	MustafaAkpolat	Pirat. Listenplatz 7 in HH. Journalist _ 0176/759 60 329	Piratenpartei
+506	Julia Probst	158767421	EinAugenschmaus	Gehörlose Lippenleserin und ihr Ableseservice rund um Fußball & Mehr. Begeisterte Bloggerin in Sachen Barrierefreiheit & Inklusion. :-) Leseratte. Piratin!	Piratenpartei
+507	Johann Saathoff	159217491	Joey_1967		SPD
+508	Stevan Cirkovic	160220349	ResEuropae		Piratenpartei
+509	Benjamin Siggel	160241888	crackpille	Das ist Neu. Neu ist gut.	Piratenpartei
+510	Axel Fischer	160906608	Axel_Fischer	Axel E. Fischer, Abgeordneter des Wahlkreises (272) Karlsruhe-Land	CDU
+511	Jürgen Coße	161395160	juergencosse	Sozialdemokrat aus dem Münsterland	SPD
+512	Ellen Demuth	161662803	EllenDemuth	Landtagsabgeordnete in Rheinland-Pfalz, CDU Fraktion, Familien- & Frauenausschuss, Enquetekommission Bürgerbeteiligung, Stadtrat Linz, Kreistag Neuwied	CDU
+513	Roland Heintze	164604284	faktenkontor	Geschäftsführender Gesellschafter der Kommunikationsberatung Faktenkontor, spezialisiert auf  strategische PR für #Berater, #Finanzen, #IT und #Gesundheit.	CDU
+514	Marian Wendt	166901968	mariantorgau		CDU
+515	Kai Boeddinghaus	168817547	KaiBoeddinghaus		Die Linke
+516	Raju Sharma	170701330	sharma_ra		Die Linke
+517	Thomas Weijers	171538427	Mcweijers	Bundestagskandidat Piratenpartei NRW Listenplatz 3, Vater, Gesundheits- u. Krankenpfleger, Rettungsassistent, Student Pflegewissenschaften, Freiw. Feuerwehr	Piratenpartei
+518	Stefan Karstens	171818740	StefanKarstens	Mitglied des Landesvorstandes der Partei DIE LINKE in Schleswig-Holstein, ebenso aktiv bei Linksjugend ['solid].	Die Linke
+519	Agnieszka Brugger	172269309	agnieszka_mdb		Die Grünen
+520	Heiko  Müller	173389076	Ekynos	Those are my principles, and if you don't like them... well, I have others	Piratenpartei
+521	Ulrike Pohl	173476688	sunmoonstars97	Wer Inklusion will, findet Wege. Wer nicht, Begründungen. Ich gehe meinen Weg im Rollstuhl... 2013% - Danke für Platz 4!	Piratenpartei
+522	Roman  Schmitt	174583087	PiratCherubim	Stellv. Vorsitzender KV RP, stellv. Pressesprecher Piraten Rheinland Pfalz, Koordinator AG Queeraten	Piratenpartei
+523	Markus Kompa	176053221	KompaLaw	Impressum: Markus Kompa, Marientalstr. 58, 48149 MünsterBild: Dorothee Rietz	Piratenpartei
+524	Jens Hoffmann	178702782	hoffmann_je	Rechtsanwalt, Johannes Gutenberg-Universität, CDU, CSU, JU, FC Bayern München, Mainz-Bingen	CDU
+525	Anja Hajduk	183312194	anjahajduk		Die Grünen
+526	Stephanie Nöther	183617468	Bugsierine	Landesschatzmeisterin NRW	Piratenpartei
+527	Daniel Schweighöfer	184178804	netsteward	Notorische Weltverbesserung, professionalisiert. Piratenpartei-Account von @acid23Bild von @bartjez	Piratenpartei
+528	Tobias Elsenmüller	187575827	Toi_Elbi	It-Kundenbetreuer, gelernter Mediengestalter, Festival-Organisator, Firmengründer, Pirat, Gamer, Organisator, NERD, @Xing ,Geek, Fantasy-Fan und Visionär :-D	Piratenpartei
+529	Claudia Bögel	188691768	claudiaboegel	Geboren 15.09.1961,2009 FDP-Bundestagsabgeordnete,2010 Kreisvorsitz FDP Kreis Steinfurt,2012 Mittelstandspolitische Sprecherin FDP-Fraktion	FDP
+530	Marco Hauke	190351450	teckpirat	Abi 94, Polizei 94, Pirat 09, Papa 11	Piratenpartei
+531	Sebastian Kanschat	191103741	kanschat	Bundestagskandidat der Piraten Pfaffenhofen/Freising. Vorsitzender KV Pfaffenhofen.	Piratenpartei
+532	Bärbel Kofler	193629792	BaerbelKofler	Hier twittert die SPD-Bundestagsabgeordnete für den Wahlkreis Traunstein-Berchtesgadener Land.MitarbeiterInnen twittern mit Kürzel (MA).	SPD
+533	Tobias Zawisla	194950070	Zawisla	linksliberal, antifaschist, serbja, wolno?? - mail: tz@tobiaszawisla.de	Piratenpartei
+534	Sven Fricke	195890259	SvenFricke2013	Bundestagswahl 2013, Ihr FDP Kandidat im Wahlkreis 69, Magdeburg-Schönebeck http://t.co/z0xjWNVp	FDP
+535	Sascha Luetkens	196066503	SaLuet_HL	Friesennerz, Vorsitzender DIE LINKE. Verband Lübeck, Mitarbeiter von @sharma_ra	Die Linke
+536	Mareike Peter	197468202	Carridwen	Wir glauben nicht an Nationen. Wir glauben nicht an Eigentum.Selbstbestimmung, Barrierefreiheit, Asyldinge, Plattformneutralität, Gewerkschaft, Datalove	Piratenpartei
+537	Peter Städter	199467012	Piet_TH	Pirat und Lehrer mit zu vielen Hobbys aus Erfurt,Liste BTW13 TH, Vorsitzender des WerkDemokratie21	Piratenpartei
+538	Johannes  Merkert	200115360	pinae2	Pirat aus Kaiserslautern, studiert Mediendramaturgie in Mainz. http://t.co/reavztvp	Piratenpartei
+539	Sasa Raber	200661736	fidelisamica	Piratin mit Leib, Seele, Herz und Verstand!Beisitzerin im Landesvorstand NRW;Direktkandidatin Münster Foto by @derUnterstrich	Piratenpartei
+540	Oliver Sippel	201789623	elmosylt	Sylter Pirat und DJ in der Wunderbar in Westerland. Hole außerdem gerade mein Abi nach.	Piratenpartei
+541	Patrick Ratzmann	202336478	likedeel	SH-Pirat, Fraktionsgeschäftsführer der #6piraten, Sankt-Pauli-Fan und Freidenker im Likedeeler-Kollektiv. Tweets können Spuren von Sarkasmus enthalten	Piratenpartei
+542	Mario Espenschied	204082458	Geisterp31rat		Piratenpartei
+543	Sebastian Beitlich	209996500	beitlich		Piratenpartei
+544	Ronald A. Heinrich	211473074	Le55ing	Piratenavatar von Ronald Heinrich, Pirat aus München, Status: Direktkandidat für den 18. deutschen Bundestag WK 221 München West/Mitte	Piratenpartei
+545	Antje Jansen	211477008	Antje_Jansen	...einfach mal auf der Homepage schauen...	Die Linke
+546	Udo Weiß	212533466	udo_weiss	Bundestagskandidat Wahlkreis 175 Bündnis90/ Die Grünen	Die Grünen
+547	Antje  Gesinn	213386962	Antje_Gesinn	Menschen zu helfen, den eigenen Weg zu erkennen und zu folgen um Zufriedenheit, Erfolg, Integrität und Gesundheit zu erreichen.	Die Grünen
+548	René Röspel	213663314	reneroespel	Geboren 1964 in Hagen, seit 1983 Mitglied der SPD, seit 1998 MdB für den Wahlkreis Hagen/Ennepe-Ruhr-Kreis I, Diplom-Biologe	SPD
+549	Steven Wink	213769537	steven_wink	Ehem. GVPA, Wirtschaftsjunior, BA-Student BWL/ Steuern, Bundestagskandidat für Pirmasens, Zweibrücken und die Südwestpfalz	FDP
+550	Moritz Mergen	215062310	MoritzMergen		FDP
+551	Heinz Peter Fischer	219461904	HP_Fischer	Öko-Sozialistischer Bezirksvertreter - Die LINKE.Köln. Aktiv gegen Kürzungen, Lohndumping, Hartz IV + Rassismus. Für eine ökologische,klassenlose Gesellschaft!	Die Linke
+552	Stefan Rabel 	219615915	s_rabel		CDU
+553	Lars Wendland	219725663	LarsWendland		SPD
+554	Detlef Ebert	220029701	detlefebert		FDP
+555	Sascha Wagner	222191824	WagnerSascha	4 Kinder, Kreistagsabgeordneter, Alemannia Aachen und FK Pirmasens Fan.	Die Linke
+556	Florian Simbeck	223397137	flosimbeck		SPD
+557	Katrin Werner	224630872	Katrin_Werner	Mitglied im Deutschen Bundestag Fraktion DIE LINKE	Die Linke
+558	Marco Weber	226205388	MarcoWeberEifel	FDP Kreistagsmitglied, Direktkandidat der FDP zur Lantagswahl 2011, Landwirtschaftsmeister, verheiratet, 2 Kinder	FDP
+559	Ralph Thomas Niemeyer	226477705	RalphTNiemeyer	live and let live, therefore, let's peacefull overcome Kaputtalism, let's occupy Deutsche Bank! We own it as we, the taxpayers rescued banks Deutsche owned!	Die Linke
+560	Michael Böhm	226626600	FourtyTwoish	michael.boehm@piraten-hofwun.de	Piratenpartei
+561	Julien Bender	228501328	rot_fux	Jusos, AfB-LaVo &Pressesprecher SPD-KV Freiburg. Studiert Geschichte, Politik, Deutsch & arbeitet für Gernot Erler. Und sonst: Boarden, Angeln, HipHop	SPD
+562	Oliver Kaczmarek	231440493	KaczmarekOliver	Kreis Unna - SPD - MdB - Ruhrgebiet - Politik - Wandern - Roter Rucksack - Fußball	SPD
+563	Sabine von der Beck	237301726	vdBine	Das Ruhrgebiet ist grün und  kann noch grüner werden!	Die Grünen
+564	Gotthilf  Lorch	237797148	GotthilfLorch	Bundestagskandidat im Schwarzwald-Baar-Kreis  286 für DIE LINKE   verheiratet  -  STA in Tübingen  - Inklusionsberater  -   contergangeschädigt	Die Linke
+565	Steffen Dreiling	238133156	s3ling	ehrenamtlicher Politiker der Kommunalebene und systemischer Coach	FDP
+566	Kornelia  Anspach-Papa	243235574	MamaPapa007		CDU
+567	Nico Ecke	244022413	HanseNico	Pirat für Bürgerbeteiligung, Arbeit, Wirtschaft und Verbraucherschutz. Direktkandidat WK23 (Bergedorf-Harburg)	Piratenpartei
+568	Sven Wiertz	245073054	svenwiertz		SPD
+569	Malte Carsten Seidler	249620826	MSonite	Pirat, Mensch, Motto:morgens ist mein abends!	Piratenpartei
+570	Martin Pätzold	250641369	martinpaetzold		CDU
+571	Gunnar Wegener	253216781	GunnarWegener	Gewerkschaftssekretär bei verdi,Sozialdemokrat,überzeugter Kommunalpolitiker, Bundestagskandidat der SPD im WK 29/Cuxhaven-Stade 2	SPD
+572	Manuela Schon	254080514	manuelaschon	Stadtverordnete LINKE&PIRATEN * Princess of Rock n Roll * Elsker Oslo * Socialist * Feminist	Die Linke
+573	Jutta Nothacker	255910354	JuttaNothacker		CDU
+574	Sabine Leidig	257461232	SabineLeidig	Von 2003 bis 2009 Geschäftsführerin von attac gewesen. Seit September 2009 Bundestagsabgeordnete für die Partei Die Linke.	Die Linke
+575	Thomas Hegenbarth	259943580	thomas_heg	Lokalpirat! 1.Vorsitz Piratenpartei Köln - Sprecher AK Kommunal	Piratenpartei
+576	Claudia  Frick	261662866	FuzzyLeapfrog	Das ist der Privat-Account von Claudia Frick / Pirat / Direktkandidat WK 202 / RLP Listenplatz 2 / http://t.co/IjWpc0OL6W	Piratenpartei
+577	Marcella Matthes	261713726	marcellamatthes	aktive Liberale, Kreisvorsitzende JuLis Groß-Gerau, Stellv. Vorsitzende der LFAs Schule und Integration der FDP Hessen, Direktkandidatin WK 184 zur BTW2013	FDP
+578	Reinhard Brandl	262730721	reinhardbrandl		CSU
+579	Stephan Bischoff	262856390	stephanbischoff	GREEN European +++ Magdeburg/Berlin +++ Grüner Landesvorstand Sachsen-Anhalt +++ Spitzenkandidat zur #BTW2013	Die Grünen
+580	Matthias Miersch	264118265	MatthiasMiersch	Mitglied des Deutschen Bundestags für den Wahlkreis Hannover-Land// Umweltpolitischer Sprecher SPD-Fraktion // Rechtsanwalt	SPD
+581	Birgit  Wenzel	265379189	Lady_Birgit	Exil-Insulanerin, Pirat in RLP, vergisst manchmal Buchstaben, tendenziell emotional, Eselfan, Katzenhüter, Hundedompteuse, kann mit Fragen voll nerven	Piratenpartei
+582	Jürgen Stemke	267772916	JottEs	Pirat.Kandidat für den Bundestag.Themenpirat Energie.http://t.co/yVatNVtVk81V Piratenpartei-Wolfsburghttp://t.co/DIsxuPMBCz	Piratenpartei
+583	Norbert Hentschke	269820573	NH1178		FDP
+584	Jens Engelhardt	274076707	JensEngelhardt		FDP
+585	Johannes Lichdi	274429672	JLichdi	Sächsischer Landtagsabgeordneter in der Fraktion Bündnis 90 / DIE GRÜNEN, Sprecher für Klima- und Energiepolitik, Rechtspolitik, Naturschutzpolitik	Die Grünen
+586	Bettina Hornhues	275204467	BettinaHornhues	CDU Direktkandidatin für den Bundestagswahlkreis 55 Bremen II/ Bremerhaven, Beiratssprecherin und CDU Fraktionsvorsitzende im Beirat Bremen-Burglesum	CDU
+587	Bernd Schlömer	276438100	BuBernd	Unter Hunden; Bundesvorsitzender der Piratenpartei Deutschland	Piratenpartei
+588	Sascha Neugebauer	276651853	Laberlohe	Pirat; persönliches Motto: non-konform; non-chalant; non-sense ||| Vorsitzender des KV HTK; BTW-Direktkandidat im WK 176	Piratenpartei
+589	Nadine  Lindenberg	276877898	Frau_Zilla	I need flesh to survive...Private and Pirate Stuff...Ich mag flausch nicht!Roller Derby #FTW	Piratenpartei
+590	Sebastian Steineke	277006619	SteinekeCDU	Politik, Termine und das Neueste aus der CDU OPR und der CDU Neuruppin. Es twittert der Pressesprecher und Bundestagskandidat Sebastian Steineke.	CDU
+591	Gerold Reichenbach	277587918	g_reichenbach	MdB, #SPD, Stellv. Vors. Enquete Internet und digitale Gesellschaft #EIDG, Innenausschuss,  UA Bürgerschaftl. Engagement, Vors. #DKKV, Vors. #THW LV Hessen.	SPD
+592	Gerald Unger	278495676	GeraldUnger		Die Linke
+593	Sabine Bätzing-Lichtenthäler	281941547	Sabine_Baetzing	Mitglied des Deutschen Bundestags für den Wahlkreis Neuwied/Altenkirchen.	SPD
+594	Lisa Badum	282195399	badulrichmartha		Die Grünen
+595	Volker Thiel	282456828	vthielmda	Hier twittert Volker Thiel, Unternehmensberater	FDP
+596	Nadja Baberowski	282703466	Strunz5644667	Piraten - Applejünger - Politik - traurige Prinzessin - Schuhfreak - Feministin - Häkelschweinbesitzer - Frauchen von @Nadjaskatze	Piratenpartei
+597	Christopher Gohl	283033082	lofferg		FDP
+598	Thomas Hitschler	292151515	ThomasHitschler	Direktkandidat der SPD für den Bundestagswahlkreis 212 - SüdpfalzVorsitzender SPD Südpfalz	SPD
+599	Thomas Oppermann	293066780	ThomasOppermann	Hier twittert Thomas Oppermann, #MdB Parlamentarischer Geschäftsführer der SPD-Bundestagsfraktion. Mitarbeiter/innen schreiben unter dem Kürzel (MIT).	SPD
+600	Petra Sitte	293522998	Petra_Sitte_MdB	Direkt gewählte Bundestagsabgeordnete aus Halle. Mitarbeitertweets Halle: (hal), Berlin: (ber) 	Die Linke
+601	Ulrike Seemann-Katz	295572081	SeemannKatz		Die Grünen
+602	Markus Drenger	298159169	humanErr	opengov, patente, netzpolitik	Piratenpartei
+603	Christoph Dammermann	298403036	ch_dammermann		FDP
+604	Meinhart  Ramaswamy	298982294	mkr_nds		Piratenpartei
+605	Jens Spahn	299650387	jensspahn	Mitglied des Deutschen Bundestages (CDU) Jahrgang 1980	CDU
+606	Miriam Seyffarth	300352705	_noujoum	Berlinerin. Islamwissenschaftlerin. Piratin. Gender-Sternchen. Listenkandidatin für die #BTW13 - Email: m@seyborg.de - Photo (CC-BY-NC-SA): Ben de Biel	Piratenpartei
+607	Mieke Senftleben	301492312	MiekeSenftleben		FDP
+608	Christian Nissen	303639675	ChNissen	Pirat, mache das mit den Fanrechten, Kandidat zur BTW13, Exil-Wuppertaler in Dortmund, #WSV, Folgen/Entfolgen ist kein Zeichen persönlicher Wert/Geringschätzung	Piratenpartei
+609	Hans-Christian Ströbele	304342650	MdB_Stroebele	Tweets über aktuelle Themen/Erklärungen/PMs von Hans-Christian Stroebele, MdB der Fraktion Bündnis90/DieGrünen	Die Grünen
+610	Müjgan Percin	304920851	Percinm		Die Grünen
+611	Mark Alexander Fraschka	308052346	MarkFraschka		CDU
+612	Peter Ramsauer	310246209	Ramsauer		CSU
+613	Wieland Rose	310921835	WielandRose	Pirat, stellv. Vorsitzender, Krankenpfleger und das alles in Jena.	Piratenpartei
+614	Sarah-Katharina Ernst	310986170	Sarah_Ernst	JU-lerin im Kreis-, Bezirks- und Landesvorstand, CDU, 1.Fck-Fan, stolze Südwestpfälzerin - also rundum ein fröhlicher Mensch! :)	CDU
+615	Claudia  Schumann	311310750	claudi_1412	Direktkandidatin WK46 BTW 131V. Piraten KV Hameln- Pyrmont	Piratenpartei
+616	Stefan Rebmann	313213943	RebmannMdB	SPD-Bundestagsabgeordneter Mannheim, Rechtsausschuss, Ausschuss Wirtschaftliche Entwicklung & Zusammenarbeit, Zivile Krisenprävention, DGB Vorsitz Nordbaden	SPD
+617	Anja Kofbinger	313307285	AnjaKofbinger		Die Grünen
+618	Gesche Hand	313962975	geschehand	Direktkandidatin für BUndestag	Die Grünen
+619	Volker Schröder	322573117	nochnich	Systemanalytiker, IT-Berater, Java-affin, Pirat,Bezirksverordneter in Treptow-Köpenick	Piratenpartei
+620	Alexander Ringbeck	323840713	alex_nrw	grüner, links-libertärer, feministischer, pfadfindener, veganer, wirtschaftsstudierender, 23-jähriger Oelder als Direktkanditat zur BTW im Wahlkreis 130	Die Grünen
+621	Torsten Gebert	325495702	fdp_gebert		FDP
+622	Christian Kopp	327297732	kopp77		FDP
+623	Sascha Endlicher	327372334	aktionspirat	Direktkandidat Bundestagswahl WK 173 (Gießen) und Ersatzkand. LTW Hessen WK 19 (Gießen II), Politikwissenschaftler, Hobbyfotograf, Open Source Fan und Pirat.	Piratenpartei
+624	Christian Lange	328939758	LangeMdB	Parlamentarischer Geschäftsführer der SPD-Bundestagsfraktion, Vorsitzender der Landesgruppe BaWü, Wahlkreis Backnang/Schwäbisch Gmünd	SPD
+625	Lars  Matti	332212596	KorsarBoy	Pfälzer mit Migrationshintergrund, Pirat, Schatzmeister und Idealist.	Piratenpartei
+626	Heike Hänsel	332264734	HeikeHaensel	Mitglied des Deutschen Bundestags, Entwicklungspolitische Sprecherin Fraktion DIE LINKE	Die Linke
+627	Sven Volmering	332698790	SvenVolmering	stellv. NRW-CDU-Landesvorsitzender, Lehrer, Bundestagskandidat und natürlich Fan des VfB Stuttgart	CDU
+628	Marc Weitz	334937969	Trybnetic	Jetzt guckt net so, mir fällt halt grad kein schlauer Spruch ein :p                                                            Foto: @RSchaffert	Piratenpartei
+629	Martin Treeck	335807212	mtsachsen		FDP
+630	Sebastian Liebram	337076644	SLiBral	jung, dynamisch, liberal - young, dynamic, liberal - ???????, ????????????, ???????????	FDP
+631	Christian Kunze	337161802	Fahrenheit23		Piratenpartei
+632	Bernd Memenga	339547542	BMemenga		CDU
+633	Pierre Brandenstein	342193192	cdubrandenstein		CDU
+634	Frank Zimmermann	346677368	_rmrf	Pirat aus Mühldorf. Schwerpunkte in Sachen Verkehrspolitik, Energie und Wasser. Bundestagskandidat Wahlkreis 213.	Piratenpartei
+635	John Dauert	353633598	JohnDauert	Kreissprecher KV Nordhausen | Listenkandidat (Platz 5)  zur Bundestagswahl | BÜNDNIS 90/DIE GRÜNEN | Lehrer i.V. Sozialkunde & Ethik | Theaterpädagoge-GB |	Die Grünen
+636	Claas Rohmeyer	354268400	claasrohmeyer	Bremer. Mitglied der Bremischen Bürgerschaft. Kulturpolitischer Sprecher der CDU. Kandidat auf Listenplatz 3 der CDU Bremen zur Wahl des Deutschen Bundestages.	CDU
+637	Christina Schwarzer	359327259	TinaSchwarzer	Kommunalpolitikerin aus Leidenschaft. #Fraktionsvorsitzende #BVV #Neukölln #CDU. Kandidatin #BTW2013	CDU
+638	Anna Katharina Vogelgesang	359704842	Redhead_DD	koordination...gedankliche Explosion... Neustadtpirat...Vorfutzi...	Piratenpartei
+639	Michael Aggelidis	364885388	MAggelidis	Bis zum 14.03.2012 wirtschafts- und energiepolitischer Sprecher der Fraktion DIE LINKE. im 15. Landtag von NRW	Die Linke
+640	Frank Steinwender	366494330	FSteinwender		Die Grünen
+641	Patrick Schnieder	368334555	PSchnieder	Bundestagsabgeordneter, direkt gewählt im Wahlkreis 203 Bitburg, Generalsekretär der CDU Rheinland-Pfalz	CDU
+642	Jan Stich	371189071	JP_Stich	Kandidat der Grünen Jugend Rheinland-Pfalz zur #btw13.Bibliophiler Fatalist, Materialist, Antifa, Hippie und Versager	Die Grünen
+643	Peter Klein	372844628	Caergoa	Mitglied der Piratenpartei NRWZweiter Vorsitzender KV KrefeldKoordinator AK Wirtschaft&Finanzen NRW	Piratenpartei
+644	Mark Huger	375162883	MarkHuger	Generalsekretär Landesverband Bayern,Vorsitzender Kreisverband Neumarkt der Piratenpartei, IT-Pirat, Verwaltungspirat	Piratenpartei
+645	Rudolf Ristl	376282689	Orangemus		Piratenpartei
+646	Andreas Prennig	376426101	Nachtfalke_de	Pirat und FreidenkerDirektkandidat Wahlkreis 141 Herne / Bochum 2	Piratenpartei
+647	Frank Roeder	376821609	FraRoeBer	*alle Stimmen für Piraten* Direktkandidat WK 81 Tempelhof- Schöneberg	Piratenpartei
+648	Anisa Fliegner	377370390	p_maureen	Piratin ? Listenkandidatin für die #BTW13 ? Tel. 01573-5254642 ? “Be the change you want to see in the world.” - nach Mohandas Karamchand Gandhi	Piratenpartei
+649	Harald Petzold	377925526	HPetzold		Die Linke
+650	Wolfgang Britzl	378116736	wolfgang_britzl	Bundestagsliste der Bayern-Piraten #17; Ich werde nicht ruhen, bis München aussieht wie Athen. Ludwig I.	Piratenpartei
+651	Björn Glienke	378242224	bjoernMaHe	Pirat, #Hertha BSC, Tierfreund, Computerfritze, Fragensteller, Opti-Realist, Direktkandidat #WK85Dit wat Spaß macht...	Piratenpartei
+652	Peter Altmaier	378693834	peteraltmaier	Parlamentar. Geschäftsführer CDU/CSU-Bundestagsfraktion @cducsubt;MdB seit 1994;ÑWer Bücher klaut ist kriminell, aber man nimmt ihm nicht die Lesebrille wegì	CDU
+653	Jens Jenssen	380844740	jens_jenssen	SPD Bundestagskandidat im Eifelwahlkreis (203)? Vorsitzender SPD Kreistagsfraktion Vulkaneifel	SPD
+654	Maximilian Bierbaum	381169722	maximalgedanke	Kein Bock mehr auf Schwarz-Gelb. Daher: vermutlich jüngster Kandidat in Hamburg zur #BTW13, @GRUENE_Hamburg, @GJHH und irgendwie noch Student. Yo.	Die Grünen
+655	Ulli Nissen	382044198	UlliNissen	Ich bin SPD Bundestagskandidatin für den Frankfurter Wahlkreis 183 und die Vorsitzende der SPD Frauen Frankfurt + Hessen Süd.	SPD
+656	Agnes Krumwiede	386555139	agnes1977		Die Grünen
+657	Johann Wadephul	389682667	JoeWadephul	Bundestagsabgeordneter des Wahlkreises Rendsburg-Eckernförde	CDU
+658	Sebastian von Hoff	390637343	_Tharon	Direktkandidat der #Piraten im #wk83, Antifaschist, Kosmopolit, BGE, #PrometheusCrew, #Finanzrat, LiquidFeedback Fanboy 0157/35254010	Piratenpartei
+659	Wolfgang Hoffmann	391259036	WolfgangHoffma1	Bin seit 1968 heimatloser Linker!	Die Linke
+660	Karl-Georg Wellmann	391355501	KGWellmann	CDU MdB	CDU
+661	Andreas Bergholz	392177331	AndreasBergholz	Direktkandidat Bundestag Wahlkreis Konstanz, Gamer, leidenschaftlicher Kinogänger, 20, Werderaner, Jungerpirat, Straßenwahlkampf, FSJ Schillerschule Singen	Piratenpartei
+662	Günter Krings	392312829	guenterkrings	Jurist, Mitglied des Deutschen Bundestages, Vorsitzender von BACDJ und DGG sowie der CDU MG.	CDU
+663	Fabian Müller	392375031	FealWilde	Pirat, Larper, Komponist, Podhörnchen, Webdesigner, Kartographiestudent, Cineast, Humanist, Vinyl- und Atlantenmensch, Brite im Geist, Vielreiser, Aquarianer.	Piratenpartei
+664	Michael Kretschmer	393264968	kretsc	MdB, stellv. Fraktionsvorsitzender für Bildung und Forschung sowie Kultur und Medien, Generalsekretär der CDU Sachsen	CDU
+665	Katharina Nocun	395873726	kattascha	Verratsdatenspeicherungen, Datenschutzgebiete, Meinungsfreiheit statt Angst, Postdemokratieprävention, Unsicherheitsforschung, Softwaren und Datenbänker,...	Piratenpartei
+666	Armin Schuster	395912134	armin_schuster	Mitglied des Deutschen Bundestags für WK Lörrach-Müllheim, Mitglied Innenausschuss mit Themen Bundespolizei im Ausland, Wirtschaftsspionage & Dienstrecht	CDU
+667	Valerie Wilms	396069600	WilmsVal	MdB aus Schleswig-Holstein. Grüne Verkehrspolitik.	Die Grünen
+668	Fabricio Martins Do Canto	396194524	oinfiltrado23	Mostly Harmless, mate hacker @metamateberlin 3 :-@Pankow Pirate - Macht das Unmoeglich Moeglich -	Piratenpartei
+669	Diemo Krüger	399253379	Dee___Kay	Demokrat, Embedded, Humanist, Liberaler, Malermeister, Mitglied Piratenpartei & Frankfurter Kollegium, Prozessmanagement, RockstarGames, Softwareengineering,	Piratenpartei
+670	Kerstin Demuth	399296672	KahEsDeh	Piratin, Student, Direktkandidatin WK #39.Flausch & Freiheit!	Piratenpartei
+671	Tom Koenigs	399988476	KoenigsGruen	former head of UNAMA, now Chair of the Committee on Human Rights and Hum. Aid of the German Bundestag & his team (jf) 	Die Grünen
+672	Andreas Graaf	402147460	VV1ntermute	Pirat aus Velbert - Bundestagskandidat auf der Landesliste NRW, Platz 7	Piratenpartei
+673	Laura Dornheim	402220351	schwarzblond	Mensch.                                Beraterin, Doktorandin, Feministin, Freundin, Tante, Vielfliegerin, Piratin, Pragmatikerin, Hedonistin, ..., ...	Piratenpartei
+674	Adrian Friese	402952183	Rabiador	Pirat, Student, Pantheist	Piratenpartei
+675	Bernhard Zimmer	403531402	BernhardZimmer		Die Grünen
+676	Florian Hahn	403735368	hahnflo	Mitglied des Bundestages (CSU), Wahlkreis München-Land http://t.co/YRTGKEAUiC	CSU
+677	Jürgen Voigt	406247330	Baruckpirat	Sozialpädagoge,  Pirat, Irgendwas mit Liste Brandenburg und Direktkandidat Barnim I - Uckermark BTW 2013http://t.co/FgwhWrJnrh	Piratenpartei
+678	Katrin Rösel	406393163	KathyR111	Fraktionssprecherin CDU Wob-Stadtmitte, Bezirksvorsitzende Frauen Union Nordostniedersachsen	CDU
+679	Petra Ernstberger	408506969	PErnstberger	MdB | Parlamentarische Geschäftsführerin | SPD-Bundestagfraktion | Sozialdemokratin | Seeheimer Kreis | Wahlkreis Hof/Wunsiedel | Oberfranken | Bayern |	SPD
+680	Denis Sabin	408577344	Spreekaribik	#PrometheusCrew + Direktkandidat WK86 http://t.co/nDNsLbzyUp Soundcloud: https://t.co/1EopuUlIvG photo by: cc-sa @bartjez	Piratenpartei
+681	Uwe Schummer	409203792	UweSchummer	Zuhause in Willich am Niederrhein, geboren in Adelaide, Australien.	CDU
+682	Michael Thews	409258073	michael_thews		SPD
+683	Julian Beier	412130478	Julian_Pa_B	Pirat, Landkreis #Göppingen, Direktkandidat zur BTW 2013	Piratenpartei
+684	Hamide Akbayir	414020114	Hamide_Akbayir	Mitglied des Landtags Nordrhein-Westfalen	Die Linke
+685	Wilhelm A. Frömgen	417003846	_G_Baer_	Foto: CC-BY 3.0 Tobias M. Eckrich - Don't follow me, I'm lost too!	Piratenpartei
+686	Lisa Rudolf	419006996	_scouty		Piratenpartei
+687	Therese Lehnen	420588362	Harmonie2_0	Direktkandidatin der #Piraten im #wk75 Berlin-Mitte	Piratenpartei
+688	Christian Thomae	421128471	ChristianThomae	Grundeinkommen statt Herdprämie: Am 22.09. Piraten wählen! Junger Vater, Designer, Unternehmer & Pirat. Kandidat zur Bundestagswahl 2013 im WK Stuttgart I	Piratenpartei
+689	Andrea Sieber	422090163	AndreaSieber01		Die Grünen
+690	Susann Flegel	423485226	flegels	Duckface | Arbeitssklave des LV Niedersachsen | Drängelkönigin | Avatar: CC-BY-SA @bartjez	Piratenpartei
+691	Daniel Isberner	425296534	PiratenIsi	Pirat, Autor und Quietscheentenfan ;)	Piratenpartei
+692	Erika Steinbach	425845268	SteinbachErika	Bundestagsabgeordnete und Privatperson. Geigerin, Informatikerin, Diplomverwaltungswirtin. Neigungen: Lyrik, gute Musik und Natur	CDU
+693	Christine Buchholz	426403057	ch_buchholz	MdB | Friedenspolitische Sprecherin @linksfraktion | Parteivorstand @DieLINKE	Die Linke
+694	Thomas Sokolowski	426950298	SokoThomas	take a moped and drive direction South Seas or thinking about which painting I should steal from Louvre ...	Piratenpartei
+695	Robert Bauer	427430034	zwitschernix	140 Zeichen sind eine idiotische Begrenzung, um Gedanken zu formulieren. Foto: Tobias M. Eckerich	Piratenpartei
+696	Christoph Schmid	428141150	chrstphschmd	Beisitzer KV Traunstein, FG Bildung, Direktkandidat BTW (Wahlkreis 225)	Piratenpartei
+697	Andreas Hahn	429058611	skyslasher	Betriebsrat, aber eigentlich Informatiker. Trotzdem oder gerade deshalb Gewerkschafter. Piraten-Kandidat zur 18. Bundestagswahl. Musiker aus Leidenschaft.	Piratenpartei
+698	Katrin Albsteiger	429357796	dieAlbsteigerin	Landesvorsitzende @jubayern. Schwäbin. CSU. Handballerin.	CSU
+699	Annette Groth	431503846	Annette_Groth	MdB | Menschenrechtspolitische Sprecherin der @linksfraktion |	Die Linke
+700	Caroline Mahn-Gauseweg	432028832	688i		Piratenpartei
+701	Jutta Paulus	433766266	JuttaPaulus	Grüne RLP, Direktkandidatin WK 209, stv. Sprecherin LAG Ökologie/Energie, Delegierte BAG Energie, Beisitzerin KV Neustadt/Weinstr.	Die Grünen
+702	Hakan Tas	434158517	HakanTasBerlin	MdA der Fraktion Die Linke im Abgeordnetenhaus	Die Linke
+703	Sebastian Knopf	434375216	SebastianKnopf	Fraktionsvorsitzender DIE LINKE WormsKreisvorstandssprecher DIE LINKE Alzey-WormsLandesschatzmeister DIE LINKE Rheinland-Pfalz	Die Linke
+704	Michael Hartmann	434884982	HartmannMdB	Mitglied des Bundestages, Innenpolitischer Sprecher der SPD-Bundestagsfraktion - Meine Tweets sind mit MH gezeichnet, die meiner Mitarbeiter mit Team.	SPD
+705	Sergey Lagodinsky	436470131	SLagodinsky	author, attorney, green political junky	Die Grünen
+706	Karsten Jagau	436945964	karsten_et	Altenpflege, Kultur, Gospelchor, ver.di, Pirat, Schwerin + MV, Christ, Pazifist, attac, Hundehalter, SF-Fan, Bücherwurm, Aktionsbetont	Piratenpartei
+707	Robert  Wendt	438651136	robert_tdf	Bundestagsdirektkandidat #WK97 #RheinSieg #GrüneJugend  #Elektroapparat #LandtagNRW #UniKöln #FernuniHagen	Die Grünen
+708	Nikolaus Jaroslawsky	440320175	GeldPirat	Man muss nicht der Beste sein. Aber man muss heute besser sein als gestern und morgen besser als heute...	Piratenpartei
+709	Wolfgang Grader	442640743	WGrader		Die Grünen
+710	Anton Hofreiter	442678902	DrToniHofreiter		Die Grünen
+711	Jens Zimmermann	449619355	JensZimmermann1	Bundestagskandidat Wahlkreis 187 (Odenwald)	SPD
+712	Michael Leibig	450944179	michaelleibig	CDU Ortsverbandsvorsitzender Steinberg, Stv. Vorsitzender CDU-Stadtverband Wadern, Stv. Fraktionsvorsitzender der CDU im Kreistag Merzig-Wadern	CDU
+713	Axel Kerstan	453882234	DerSchamane_		Piratenpartei
+714	Christoph (Katrina) Reichert	455624784	KatrinaR47		Piratenpartei
+715	Tuna Firat	460004195	TunaFirat		SPD
+716	Björn Niklas Semrau	460204007	BjSemrau	Pirat, Listenplatz 4 (Hessen) & Direktkandidat im WK186 (BTW), Gründungsmitglied der Piratenpartei Deutschland	Piratenpartei
+717	Benjamin Zabel	460500798	benjamin_zabel	Bundestagskandidat im Wahlkreis 166 - VogtlandStadtrat in Plauen/Vogtl.Vorsitzender des SPD-Ortsvereins Plauen	SPD
+718	Kristian Kater	462365596	KristianKater		SPD
+719	Alfons Schulze-Hagen	462903031	SchulzeHagen		CDU
+720	Katja Leikert	467381196	KLeikert		CDU
+721	Lutz Bommel	468825352	FakeChicken69	Betriebswirt, aktiv in einigem rund um Bad Liebenwerda, und 1. Vorsitzender des RV Südbrandenburg in der  Piratenpartei	Piratenpartei
+722	Heiko Knotte	468895209	HeikoKnotte	Tontechniker, Messebauer, Büropirat, Direktkandidat zur Bundestagswahl. Die letzteren Beiden für nur 48Euro im Jahr. --- Wer hätte das für möglich gehalten? ---	Piratenpartei
+723	Kathrin Brandt	470337051	KathrinBrandt	stellv. Vorsitzende @jusaar | stellv. Vorsitzende @juwnd | Volontärin @saarland_soe | Hier privat |	CDU
+724	Dennis  Meisberger	471793192	de_meisberger	Kreisvorsitzender der @juwnd | Abgeordnetenmitarbeiter Wahlkreisbüro @NadineSchoen, MdB | Mathematik- und Physikstudent an der UdS	CDU
+725	Elisabeth Scharfenberg	471965442	e_scharfenberg	Bundestagsabgeordnete Bündnis 90/ Die Grünen, Sprecherin für Alten- und Pflegepolitik, Wahlkreis Hof-Wunsiedel, Bayern	Die Grünen
+726	Oliver Mücke	472750599	omuecke	aus Land Brandenburg und  dort Zuhause. Pirat mit Begeisterung und derzeit 1 .Vorsitzender des KV in TF der Piratenpartei ach und DK für den WK 62 der BTW2013	Piratenpartei
+727	Ingrid Hönlinger	473894912	Hoenlinger	Grüne Politikerin,Sprecherin für Demokratiepolitik, Obfrau im Rechtsausschuss, Mitglied im Menschenrechtsausschuss#Ludwigsburg-#Berlin	Die Grünen
+728	Sylvia Kotting-Uhl	474013625	BabettesChefin	atompolitische Sprecherin Bündnis 90/Die Grünen im Bundestag Umweltausschuss Forschungsausschuss PUA Gorleben Landesvorstand BW	Die Grünen
+729	Marcel Louwers	474360079	marcelpirat		Piratenpartei
+730	Frank Thiesen	477040716	grisu226	Beisitzer im Landesvorstand Berlin Piratenpartei Deutschland Direktkandidat Wahlkreis 78 Spandau/Charlottenburg Nord	Piratenpartei
+731	Bianca Staubitz	481163614	Bista100	MTLA, Study Nurse, Studentin, Pirat und vor allem MenschFoto Hintergrund: CC-BY 3.0 Tobias M. Eckrich	Piratenpartei
+732	Torben  Franz	481189775	TorbenFranz		Die Linke
+733	Edgar Franke	481393623	FrankeEdgar	Direkt gewählter MdB (Schwalm-Eder/Frankenberg). Stellv. rechtspolitischer Sprecher der SPD-Bundestagsfraktion und Mitglied im Gesundheitsausschuss.	SPD
+734	Rainer Wernicke	481452037	Rainer_Wernicke		Die Grünen
+735	Theresa Kienlein	483235862	thekie1	Pirat im LV Bayern, Landesliste zur BTW 2013	Piratenpartei
+736	Gerd Rainer Weber	485022157	Xfire77	Kommunikationstrainer, Saar-Pirat, Demokrat, Atheist, Vorsitzender der Piraten im Landkreis Neunkirchen, stellv. Landespressesprecher	Piratenpartei
+737	Jürgen Trittin	485751594	JTrittin	Grüner Fraktionsvorsitzender & Wahlkreis Göttingen & Werder-FanTeam twittert mit //TTFoto: Ingo Kuzia	Die Grünen
+738	Volker Arndt	489598357	Volker_Arndt		Piratenpartei
+739	Sabine Martiny	492381547	SabineMartiny	WikiProf. four4samy  Ich bin unbequem, fröhlich (meist),Ironisch, und mache in Bildung u.Kultur	Piratenpartei
+740	Jessica Messinger	493487227	jessimessenger	Studentin. Mitarbeiterin. Praktikantin. Das schöne Leben: Musik, Worte, Zwischenmenschliches. Feminismus, Politik (#gjbw #gruenebw). Kaffee, Kino. Bier. Ayran.	Die Grünen
+741	Tim Willy Weber	494032747	pira_tim	Ich bin Pirat und bin dafür, daß viele abstimmen. Darum Volksabstimmung!	Piratenpartei
+742	Wilk Spieker	495299129	wilk_s	Sozialarbeiter am Amtsgericht und leidenschaftlicher Bildungspirat - Direktkandidat WK 136 BTW 13 -  http://t.co/Xl7xnXG9ky	Piratenpartei
+743	Manfred Lister	496900084	ManfredLister		FDP
+744	Lisa Collins	497039405	Alyama1	Just a small town girl, living in a lonely world. Informatikerin, Mama, zweisprachig&piratische Direktkandidatin im Wahlkreis 291(Ulm) und Landesliste BaWü.	Piratenpartei
+745	Christian Reidel	497873787	bim_R	Pirat (BzV Vors. Niederbayern), RA (Vertrags-/Wirtschaftsrecht), open minded ggü. allem was open minded ist http://t.co/JyxcYzL0dr	Piratenpartei
+746	Michel  Pauly	501142113	MichelPauly	Jahrgang 1985, politisch aktiv, gebürtiger Berliner und jetzt waschechter Lüneburger.Ratsherr der Hansestadt Lüneburg und Vorstand der Linken Niedersachsens	Die Linke
+747	Martin A. Michels	501718588	MartinMichels	Kandidat im WK 27 (Oldenburg-Ammerland) bei der Bundestagswahl 2013, Listenplatz 6,Landesvorstand DIE LINKE Niedersachsen, Impressum: http://t.co/KgXpvCVhNS	Die Linke
+748	Andreas Guckert	504905317	BurgPirat	Vorsitzender KV Saarpfalz	Piratenpartei
+749	Ronnie (Hans-Jürgen) Rigl	508108667	Pirori_A	50er- Pirat, Der Fels in der Brandung, Augschburger,	Piratenpartei
+750	Ute Koczy	508639570	UteKoczy	Hier twittern Ute Koczy, Abgeordnete aus NRW, entwicklungspolitische Sprecherin der Grünen im Bundestag, und ihr Team (bü).	Die Grünen
+751	Matthias Lietz	508645493	MatthiasLietz		CDU
+752	Daniel Matulla	515299955	DanielMatulla	Politikwissenschaftler und Politker bayerischer Prägung.	CSU
+753	Daniela Kolbe	516783036	danielakolbe	SPDMitglied des Bundestages aus LeipzigVorsitzende Enquete Wachstum, Wohlstand, Lebensqualität #ekwwl	SPD
+754	Sebastian  Hacker	521312598	derKelmoir	Informatiker, Pirat, FFw	Piratenpartei
+755	Alexandra Osburg	525074464	vlinderle		Piratenpartei
+756	Christian Peters	525222407	c_h_p_e	Generalsekretär des Landesverbandes Freistaat Sachsen der Piratenpartei Deutschland. Wohnt im #Erzgebirge, mag #Flausch.	Piratenpartei
+757	Hannelore Kraft	528665692	HanneloreKraft	Ministerpräsidentin von NRW, Landesvorsitzende der NRWSPD und stellv. SPD-Bundesvorsitzende. HK = Hannelore Kraft / TK = Team Kraft	SPD
+758	Wolfgang Gehrcke	532669620	WolfgangGehrcke	MdB & Außenpolitischer Sprecher @linksfraktion	Die Linke
+759	Detlev Pilger	535373865	DetlevPilger	Mitglied im Koblenzer Stadtrat und Kandidat im Wahlkreis 200 für die Bundestagswahl 2013	SPD
+760	Bernd Riensch	536625548	b_riensch		Piratenpartei
+761	Birgit Klingenberg	537076195	klingenbergB	PIRAT ,gerne dabei ,lerne immer,liebe das Leben ,wünsche allen Gesundheit	Piratenpartei
+762	René Röderstein	537320345	Roederstein		Piratenpartei
+763	René Heesen	541915812	ReneHeesen	Grüne Kreis Viersen, Sprecher GJ Kreis Viersen, Schulpolitik, Basisdemokratie, Gerechtigkeit, Jugend, Verkehr, Queer,	Die Grünen
+764	Torsten Köhler-Hohlfeld	542057355	tkhfdp		FDP
+765	Johannes Singhammer	542415865	JohannesSingham	Fraktionsvorsitzender der CDU/CSU-Fraktion im Deutschen Bundestag für die Bereiche Gesundheit, Ernährung, Landwirtschaft und Verbraucherschutz.	CSU
+766	Philipp Schnabel	547418501	Pirat_impyer	Philipp.Schnabel@piraten-bautzen.de - Mehr Informationen im Wiki - Ich bin nicht kompliziert, sondern eine Herausforderung!Philipp.Schnabel@piraten-bautzen.de	Piratenpartei
+767	Alexander Jäger	550113319	AlexJaegerPirat		Piratenpartei
+768	Herlind Gundelach	550951920	HGundelach		CDU
+769	Ingrid Remmers	551802475	Ingrid_Remmers	Meine ausführliche Biographie findet ihr hier:http://t.co/YioCjFMg2f	Die Linke
+770	Hans-Joachim  Ossenberg	553370394	MK_Pirat	„Der beste Weg, die Zukunft vorauszusagen, ist, sie zu gestalten.“Willy Brandt (1913-92)	Piratenpartei
+771	Felix Coeln	553453768	felixccaa	Fulltime-Aktivist, Grundeinkommens-Realisator und -Lobbyist, Wer sagt, es geht nicht, geht besser aus dem Weg und macht Platz für jene, die es einfach machen.	Piratenpartei
+772	Katja Falkenbach	553533250	Die_Kati	Ehrgeiziges Energiebündel mit nicht zu unterschätzendem Dickkopf! ~ Beisitzer im Landesvorstand der Piratenpartei Hamburg ~ Direktkandidat für den WK 22	Piratenpartei
+773	René Schernikau	554416317	indyz_25		Piratenpartei
+774	Andreas Ronig	554767302	PiratAndRo	Pirat, Vorzimmerdame, Hofnarr, egal......& neuerdings BTDKfOBDIN	Piratenpartei
+775	Michael Hartrich	559775653	Sonic_Spear	Piratenpartei - Direktkandidat für den Wahlkreis Würzburg zur BTW13Kommunalpolitisches unter http://t.co/027ECtsPQE	Piratenpartei
+776	Jürgen Weiler	559893006	Jakob_Juergen	Elektroplaner + Beratender Ingenieur. Sprecher Ortsgruppe Bornheim, Direktkandidat WK 98 im Rhein-Sieg-Kreis Foto: Bartjez; cc_sa	Piratenpartei
+777	Christina Worm	560097209	BackschafterBo	Christina Worm / Rechtsanwältin in Essen / Pirat / Direktkandidatin WK 140 / Listenplatz 5 NRW /http://t.co/ZuwCGNV6ee/ Avatar cc-by Lisa Feyerabend	Piratenpartei
+778	Michael Breukel	560300464	micha9950	Pirat in KV Darmstadt/Darmstadt Dieburg	Piratenpartei
+779	Uwe Probst	560307006	UweProbst		FDP
+780	Petra Pau	560467206	PetraPauMaHe	MdB, #MaHe direkt gewählt, #NSU-Untersuchungsausschuss, #LINKE, #Vizepräsidentin	Die Linke
+781	Dieter Stier	560931535	DieterStier		CDU
+782	Olaf Forberger	562698247	Holzheizer	Zur Bundestagswahl direkt kandidierender, C02-neutraler, aus Mecklenburg kommender, niedersächischer Pirat mit böhmisch-mährischen Wurzeln	Piratenpartei
+783	Manfred Todtenhausen	563706584	MTodtenhausen		FDP
+784	Felicitas Steinhoff	565445668	lilysteinhoff	Pirate Party Germany (Lower Saxony) Listenkandidatin NDS, Direktkandidatin Hildesheim BTW 13Entwicklungspolitik, Open Aid, IATIPhoto: CC-BY-SA @bartjez	Piratenpartei
+785	Sebastian Harmel	566168192	Altstadtpirat	@UG_Verteidigung, Sächsische Innenpolitik, Das Camp, Piraten-Floß Dresden, Dresperados	Piratenpartei
+786	Beate Kesper	566263140	bkesper	Manchmal bin ich einfach nur nett, aber immer Pirat.	Piratenpartei
+787	Richard Klaus	566503992	pirat_stade	Pirat (KV Stade), EDV und Telekommunikationslösungsanbieter. Direktkandidat zur BTW 13 des WK30.Warnhinweis: Es könnte auch Satire sein.pirat(ät)rktrading.de	Piratenpartei
+788	Benedikt Winzen	568444205	BWinzen		SPD
+789	Paula Riester	569005941	paula_riester	Grüne Juristin, Bezirksverordnete und Fraktionssprecherin aus Xhain	Die Grünen
+790	Lisa Paus	569166756	lisapaus	MdB, Obfrau im Finanzausschuss, Mitglied im EU-Ausschuss. Bündnis 90/DIE GRÜNEN Meine MitarbeiterInnen twittern als (ma).	Die Grünen
+791	Sigmar Gabriel	569832889	sigmargabriel	Parteivorsitzender der SPD, Abgeordneter des Deutschen Bundestages Wahlkreis Wolfenbüttel, Salzgitter, Goslar	SPD
+792	Alexander Brandt	571588045	PiratAlex1		Piratenpartei
+793	Agnes Chudy	571845092	AgnesChudy	?JU'ler CDU'ler Miracle ? ?Traumtänzer? ?Man kann alles erreichen, man muss nur wollen?	CDU
+794	Frank Umann	572430182	Frank_und_Frei_	Wer Visionen hat, sollte zum Arzt gehen. Ich war beim Arzt. Der hat mich zu den Piraten geschickt;-)	Piratenpartei
+795	Melanie Kalkowski	572704712	pirat_mel	Eine von wir! Pottkind, Pirat, Sprecherin AK Wirtschaft und Finanzen NRW	Piratenpartei
+796	Martin Bartsch	572977668	derBartsch	Freiberufler, Pirat, Ex-Schatzmeister, Kandidat für KarlsruheFoto: @fotoFUCHS_KA	Piratenpartei
+797	Oliver Grube	573031949	0LG12	Family first. Security. Henstedt-Ulzburg'er Piraten. BTW2013 - Landesliste SH. WK 008. CISSPAKB: http://t.co/IDcXwr5fj7	Piratenpartei
+798	André Presse	573050922	AndrPresse		Piratenpartei
+799	Herbert Behrens	573861390	HerbertBehrens	MdB @linksfraktion | Landesvorstand DIE LINKE Niedersachsen @die_linke_nds	Die Linke
+800	Brigitte Zypries	574472515	brigittezypries		SPD
+801	Sibylle Pfeiffer	574528123	SibyllePfeiffer	Bundestagsabgeordnete aus dem Lahn-Dill-Kreis, entwicklungspolitische Sprecherin der CDU/CSU, Pferdeliebhaberin und Oma.	CDU
+802	Michael Balke	574791882	f60_8	Pirat, Korinthenwixxer, Tuffelrollenliebhaber, Direktkandidat für die Bundestagswahl 2013 (WK 169) und vieles mehr	Piratenpartei
+803	Bernhard Kaster	576362427	BernhardKaster	Bundestagsabgeordneter für Trier und Trier-Saarburg	CDU
+804	André Patrick  Fricke	578315248	AndreFricke		Die Linke
+805	Reinhard Schaffert	580226495	RSchaffert	Mensch, Pirat, Gesundheits-WesenBeauftragter für Gesundheitspolitik der PiratenparteiBundestagsdirektkandidat im WK 175 (Main-Kinzig-Wetterau II-Schotten)	Piratenpartei
+806	Florian Weinzierl	580837310	weinzierl_2013	Bundestagskandidat, Bürgerbotschafter, Bayer, Deutscher, Europäer.	FDP
+807	Michael Schäfer	582112838	schaefer_berlin	Bündnis 90/Die Grünen, MdA, Klima & Energie	Die Grünen
+808	Martin Böckel	582218162	hammartin73	Systemadmin, HoMi-Templer-Reenactor, Vater von 3 wundervollen Kindern... ÖPNV Pirat; Direktkandidat für den Bundestag 2013	Piratenpartei
+809	Jens Löw	582402593	LoewJU	SPD-Ortsvereinsvorsitzender BrigachtalSPD-Kreisvorsitzender Schwarzwald-Baar-Kreis	SPD
+810	Bruno Jöbkes	586417771	jbkes	#Grüner, Land- und Wirtschaft, Sprecher KV Kleve - Wachtendonk	Die Grünen
+811	Wilfried Adamy	588111245	WilfriedAdamy	Pirat in Essen	Piratenpartei
+812	Thomas Gotzen	588184696	ThomasGotzen		Piratenpartei
+813	Thorsten Hoffmann	588942667	ThHoffmann1961		CDU
+814	Sandra Sonntag	589943643	SandraSonntag	Bundestagskandidatin FDP Traunstein, Gemeinderätin, stellv. Kreisvorsitzende FDP TS, Mitglied im Bezirksvorstand FDP Oberbay., Ortsvorsitzende FDP Wössen	FDP
+815	Jens Petermann	591715451	JensArnstadt	Rechtspolitischer Sprecher der Fraktion DIE LINKE. im Deutschen BundestagWahlkreis 197 Suhl-Schmalkalden-Meiningen-Hildburghausen	Die Linke
+816	Jens Barschdorf	592632177	JBarschdorf		FDP
+817	Christopher Schrage	592642450	nixus_nrw	Pirat, der zuhören kann, spricht wenn er etwas zu sagen hat.Kandidat Nr.25 auf der NRW-Landesliste für die Bundestagswahl 2013.Bleibt Pirat bis auf weiteres.	Piratenpartei
+818	Floria Zimmeck	593159640	FlorianZimmeck		Die Grünen
+819	Vecih Yasaner	594833053	VYasaner	...kämpfe gerne für Menschenrechte, für mehr Bildung und für mehr Demokratie...	Piratenpartei
+820	Robert Arnold	595973309	Dr_Bob100	Engagiert bei den Piraten für mehr Kompetenz in Wirtschafts- und Finanzfragen. NRW-Listenkandidat für den Bundestag Platz 21	Piratenpartei
+821	Gino Leonhard	596618053	g_leonhard		FDP
+822	Erich Burmeister	597224016	BurmeisterErich		Die Linke
+823	Erich von Hofe	599508904	ErichvonHofe		Die Grünen
+824	Gerald Teybig	599906349	PiratGGT		Piratenpartei
+825	Jutta Krellmann	600984834	JuttaKrellmann	MdB. Sprecherin für Arbeit und Mitbestimmung der Linksfraktion im Bundestag	Die Linke
+826	Florian Eckert	602053920	_florianeckert	Florian Eckert,Kreisvorsitzender B90/Die Grünen Regensburg	Die Grünen
+827	Johannes Giar	602967489	johannesgiar	Student der Geschichte und Polititk, Kommunalpolitiker	SPD
+828	Alexander Deicke	607053067	AlexanderDeicke	Rechtsanwalt, Legal Interim Manager	FDP
+829	Kai Bitzer	610723933	KaiBitzer		Die Grünen
+830	Marcel Schäfer	613355829	MarcelSch87	25; Student an der TU Kl	CDU
+831	Arno Schröder	615014939	PcDoc92	IT/TK-Service- IT-Forensik -- Jugendarbeit - - Piratenpartei -	Piratenpartei
+832	Floyd Kretschmar	616275611	FREIbeuter_	Those who make peaceful revolution impossible will make violent revolution inevitable. - John F. Kennedy	Piratenpartei
+833	Alexander Wagner	622695526	alexwagner_sh		SPD
+834	Dragos Pancescu	624519881	DragosGruene	Grüner Stadtrat & Kreistagsabgeordneter Brake Wesermarsch Bundestagsdirektkandidat im Wahlkreis 28 Wesermarsch, Oldenburg-Land, Delmenhorst	Die Grünen
+835	Harald Weinberg	625642009	HaraldWeinberg	MdB bei @linksfraktion I Kreisvorsitzender in Nürnberg/Fürth I Mitglied im Landesvorstand Bayern	Die Linke
+836	Harald Koch	625686065	HaraldKoch5	Mitglied des Bundestages, Fraktion Die Linke.	Die Linke
+837	Diana Golze	625799912	GolzeMdB	Sprecherin für Kinder- und Jugendpolitik, Landesliste Brandenburg. DIE LINKE	Die Linke
+838	Katrin Göring-Eckardt	626287930	GoeringEckardt	GRÜNE Spitzenkandidatin zur Bundestagswahl 2013, Bundestagsvizepräsidentin und MdB aus Thüringen, BÜNDNIS 90/DIE GRÜNEN, Ruht: Präses der Synode der Ev. Kirche	Die Grünen
+839	Hagen Stanek	627653605	hexjack	Haushaltspolitik aus Sicht der Piratenpartei	Piratenpartei
+840	Ali Atalan	628891590	AliAtalan2		Die Linke
+841	Andreas Gernegroß	633181489	AGernegross	Landesvorstand BÜNDNIS 90/DIE GRÜNEN Sachsen Anhalt | Kreisvorstand BÜNDNIS 90/DIE GRÜNEN Salzlandkreis	Die Grünen
+842	Sven Reisch	701091930	svenreisch		Die Grünen
+843	Nese Erikli	701283476	NeseErikli	Hier twittert Nese Erikli, Bundestagskandidatin Bündnis 90/Die Grüne für den Wahlkreis Konstanz,Politikerseite auf Facebook: http://t.co/MSQbanVG, Homepage:	Die Grünen
+844	Manuela Olhausen	706743338	ManuelaOlhausen	Was zählt ist München! Für eine gute Entwicklung unserer schönen Heimatstadt setze ich mich als Münchner Stadträtin mit viel Freude und Elan ein.	CSU
+845	Matthias Zehe	710530987	pirat_mz	Dipl.-Hdl., selbst., Piratenpartei,Bundespartei Kassenprüfer, Direktkandidat Bundestag Wahlkreis Landshut-Kelheim	Piratenpartei
+846	Harro Glienke	710806902	piratglienke	... bitte endlich mehr Ausgewogenheit ... bitte endlich weniger Masslosigleit ... Politik dient den WählerInnen ! ... Niemals anders herum !!!	Piratenpartei
+847	Aleks Lessmann	726994910	AleksLessmann	Direktkandidat der Piratenpartei im Wahlkreis WeilheimLiberaler, Sozialer, Europäist, Vegetarier, Tierschützer, Menschenrechtler, Pirat	Piratenpartei
+848	Gerd Lindenblatt	727864267	verdichter		Piratenpartei
+849	Jana Schimke	728990858	JanaSchimke		CDU
+850	Moritz Pöllath	734734950	MoritzPllath		FDP
+851	Marco  Notman	737151541	MarcoNotman	I am a global protester in education and social	Die Linke
+852	Volker Dyken	741393379	Colorofthesun	https://t.co/aiwcwdwKMO	Piratenpartei
+853	Henrick Meine	741721910	Henrick_Meine	Spitzenkandidat zur Bundestagswahl der FDP im Wahlkreis Trier	FDP
+854	Matthias W. Birkwald	748851762	MWBirkwald	Mitglied des Deutschen Bundestages, rentenpolitischer Sprecher der Fraktion DIE LINKE, Kölner Abgeordneter	Die Linke
+855	Marcus Held	749165737	marcus_held		SPD
+856	Ute Maria Meiser	763181178	UMeiser		Die Grünen
+857	Marieluise Beck	763549040	MarieluiseBeck	Mitglied des Deutschen Bundestags, Sprecherin für Osteuropapolitik, Vorsitzende der Deutsch-Bosnischen Parlamentariergruppe	Die Grünen
+858	Andreas Parr	768976050	andreas_parr	Mensch, Ehemann, Vater, Personalratsvorsitzender, Unterbezirksvorsitzender der SPD Aschaffenburg, Bundestagskandidat der SPD Aschaffenburg.	SPD
+859	Hilmar Vogel	769235240	PiratBirdy	Landtags-/Bundestagskandidat Stadt Fürth, Vorstand KV Fürth, Gymnasiallehrer	Piratenpartei
+860	Manfred Schramm	778629727	Hhhhmmmmasch	Lasst uns unseren Kindern Bildung für Herz, Geist und Hand ermöglichen. Wir werden es ihnen danken.	Piratenpartei
+861	Claudius Roggenkamp	780551726	roggenpirat	Beisitzer im BzV Schwaben und Bundestagskandidat der #PIRATEN	Piratenpartei
+862	Carsten Sieling	784592624	carstensieling	MdB im Finanzausschuss, SPD-Parteivorstand, WK Bremen I, Finanzmarktregulierung, Steuern, Anlegerschutz, Privates & Politisches; Team twittert mit (TS).	SPD
+863	Stefan Schreckenbauer	792260264	Schreckenbauer	Liberal, FDP Esslingen, Ingenieur, Bayer in Schwaben, Löwe	FDP
+864	Ralph Osterkamp	801064248	OsterkampR	Piratenpartei Deutschland Kreisverband Allgäu Bodensee stv. Vorstand	Piratenpartei
+865	Walter Weber	806678010	fluxkonzentrat		Piratenpartei
+866	Antje Lezius	808310659	antjelezius	Des. Direktkandidatin für die CDU im Wahlkreis Birkenfeld/Bad Kreuznach zur Bundestagswahl 2013. Kommt aus Idar-Oberstein. Geb. 30. 6 1960. 2 Töchtern.	CDU
+867	Walter Straßer	821657166	ws_by	Politischer Pirat im Kreisverband Bayerischer WaldBundestagsdirektkandidat  Wahlkreis 227 Deggendorf	Piratenpartei
+868	Rainer Kolb	822112568	rainerPirat		Piratenpartei
+869	Arne Pfeilsticker	836435755	APfeilsticker	Pirat und Koordinator der AG Wirtschaft	Piratenpartei
+870	Jutta Dettmann	838456603	JuttaDettmann		SPD
+871	Matthias Fitzke	840858774	Commodore_Nemo		Piratenpartei
+872	Hauke Hilz	844353416	HaukeHilz	Landesvorsitzender FDP Bremen und Prof für Lebensmittelchemie	FDP
+873	Klaus Sommerfeld	845252629	Klausch_TH	Vision? Einfache Sprache zeugt von gutem Gewissen und ist notwendig die Wahrheit zu sagen. Die Leute könnten sich daran gewöhnen, diese hören zu wollen.	Piratenpartei
+874	Alexander Bauer	851410801	spdbauer		SPD
+875	Alexander Schöps	851463985	SolLib04		FDP
+876	Martin Dehnke	852579595	Mbd4us		Piratenpartei
+877	Peer Steinbrück	856641566	peersteinbrueck	Hier twittert das Team von SPD-Kanzlerkandidat Peer Steinbrück - und ab und zu er selbst.	SPD
+878	Franz Josef Jung	860067295	jungfj		CDU
+879	Anna Gallina	860102108	AnnaGallinaHH		Die Grünen
+880	Friedrich Ostendorff	862714045	FOstendorff		Die Grünen
+881	Stefan Kisters	864622530	StefanKisters		Die Grünen
+882	Birgit Raab	865013089	birgit_raab		Die Grünen
+883	Manfred Schubert	866016200	Manfred_TH	Politik aus Notwehr.Direktkandidat für den Wahlkreis 193 Erfurt/Weimar.Für einen transparenten Staat statt des gläsernen Bürgers.	Piratenpartei
+884	Nicole Gohlke	866425075	NicoleGohlke	MdB | Hochschulpolitische Sprecherin der @linksfraktion | #Bayern | es twittern Nicole Gohlke & Team rund um #Bildung #Hochschule #sozialeBewegungen #EuroKrise	Die Linke
+885	Andreas Kaßbohm	866639534	AndreasKassbohm	BTW 2013 - Direktkandidat im WK192 sowie Listenplatz 3 auf der Landesliste der Piraten Thüringen	Piratenpartei
+886	Jörg Schindler	866939834	JoergSchindler		Die Linke
+887	Egon Jüttner	871704942	EgonJuettner	Ich bin direkt gewählter Bundestagsabgeordneter des Wahlkreises 275 Mannheim und setze mich für die Interessen und Belange der Bürger der Stadt ein.	CDU
+888	Florian Hüfner	884614928	FlorianHuefner	#SPD #Bundestagskandidat für den Wahlkreis 73: #Burgenlandkreis und #Saalekreis.Ich lade Sie alle herzlich ein mit hier zu folgen und mit mir zu diskutieren.	SPD
+889	Carsten Körber	886470344	CarstenKoerber		CDU
+890	Gregor Gysi	888289790	GregorGysi	Vorsitzender der Fraktion DIE LINKE im Deutschen Bundestag, im Wahlkreis 85 Berlin Treptow-Köpenick direkt gewählter Abgeordneter	Die Linke
+891	Wolfgang Renner	888990464	Lausitz_Renner	Bündnis 90/ Die Grünen - Bundestagskandidat für Cottbus und Spree-Neiße	Die Grünen
+892	Susanna Karawanskij	892779458	SuzaKarawanskij		Die Linke
+893	Erik Gührs	895427594	guehrs	Bundestagskandidat der SPD im Wahlkreis Berlin-#Lichtenberg #wk86 & Fraktionsvorsitzender @SPDBVVLbg in der #BVVLbg, Lichtenberger Sozi und Physiker	SPD
+894	Birgit Kemmer	897054919	Lingengruen	Deutschland, Emsland, Grafschaft ist erNeuerbar	Die Grünen
+895	Natascha Collette Baumann	904697695	tascha44	Vorsitzende des FDP Ortsverbandes Altenstadt & Direktkandidatin der FDP (Wahlkreis 177, Wetterau I) für die Bundestagswahl 2013	FDP
+896	Dirk Gene Hagelstein	906295194	Gene_Hagelstein	SPD-Kandidat WK 185 zur BTW 2013	SPD
+897	Wilfried Oellers	906847944	WilfriedOellers	CDU Bundestagskandidat für den Kreis Heinsberg | Impressum: http://t.co/dMhgJS30vx	CDU
+898	Manfred Krönauer	908113856	kroenauer_m		FDP
+899	Claudia Sünder	915336312	ClaudiaSuender		SPD
+900	Klaus Lederer	919760365	klauslederer	Landesvorsitzender von @dielinkeberlin und Mitglied des Abgeordnetenhauses.	Die Linke
+901	Andreas Mittelstädt	929605254	AnMittelstaedt	Direktkandidat für #grüne in #Aachen bei #btw13, Mitglied im Vorstand OV Aachen, Sprecher @GJAACHEN, Vertreter der GJ im KV Aachen.	Die Grünen
+902	Jan van Aken	936486542	jan_vanaken	MdB, Hamburg, DIE LINKE - Im Übrigen bin ich der Meinung, dass Deutschland keine Waffen mehr exportieren sollte.	Die Linke
+903	Claudia Müller	937403112	greenclaudiam	Landesvorsitzende Bündnis 90/Die Grünen MV, stellv. Fraktionsvorsitzende Kreistagsfraktion Vorpommern-Rügen, Mensch	Die Grünen
+904	Michael Zalfen	937510878	MichaelZalfen	SPD-Bundestagskandidat für den Rheinisch-Bergischen Kreis.	SPD
+905	Susanne Mittag	939034891	susanne_mittag	SPD Bundestagskandidatin für Oldenburg-Land, Delmenhorst und die Wesermarsch.	SPD
+906	Andreas  Brühl	941434094	PiratenYoga	Pirat. Optimist. Idealist. Naiv genug zu glauben, wir könnten die Welt verbessern. Direktkandidat WK 204 und Listenplatz 3 in RLP http://t.co/6k8mcdW4	Piratenpartei
+907	Martina Lammers	954126913	martinalammers		Die Grünen
+908	Barbara Naguib	954518514	naguib_barbara		Die Grünen
+909	Uli Grötsch	954518514	waidhaus		SPD
+910	Mareike Rehse	958352065	Mareike_Kiel		Die Grünen
+911	Richard Janus	962180574	richardjanus1		Die Grünen
+912	Lars Dörner	964870928	La_Doerner		Die Grünen
+913	Michael Ceglar	966167528	CeglarM	Pirat -- Europäer -- Laffer Bimbala --              Bundestagsdirektkandidat Wahlkreis 246 Roth - Nürnberger Land	Piratenpartei
+914	Bettina Herlitzius	972136716	BHerlitzius	Bettina Herlitzius, MdB. Sprecherin für Stadtentwicklung und Obfrau im Ausschuss für Verkehr, Bauen und Stadtentwicklung der Bundestagsfraktion B'90/Die Grünen.	Die Grünen
+915	Parsa Marvi	973597518	ParsaMarvi	SPD-Kreisvorsitzender in Karlsruhe und hier Kandidat meiner Partei für den Deutschen Bundestag	SPD
+916	Mechthild Heil	974367631	MechthildHeil	CDU-Bundestagsabgeordnete für den Wahlkreis Ahrweiler/Mayen, Verbraucherschutzbeauftragte der CDU/CSU-Bundestagsfraktion	CDU
+917	Valentin Motschmann	974394991	VMotschmann	Bundestagskandidat Wahlkreis 240 (Kulmbach/Lichtenfels/BambergLand), Vorstandsprecher Grüne Lichtenfels, MItglied im Bezirksvorstand der Grünen Oberfranken	Die Grünen
+918	Angelika Glöckner	976421048	A_Gloeckner		SPD
+919	Eva Söllner	982285190	evasoellner		CDU
+920	Lars Zimmermann	991173061	Zimmermann2013	Direktkandidat, Bundestagswahl 2013, CDU Berlin-Pankow, http://t.co/aMUoobb1Za	CDU
+921	Gabi Weber	992808439	GabiWeberSPD	SPD-Bundestagskandidatin für den Wahlkreis 205 Montabaur, DGB Regionsvorsitzende Koblenz, unterwegs den Wahlkreis zu gewinnen.	SPD
+922	Bernd Kasperidus	993132764	BerndKasperidus	Bundestagskandidat für die Piratenpartei LV Bayern ·  OBACHT: Tweets können eindeutig zweideutige aber auch eindeutig eindeutige Anspielungen enthalten	Piratenpartei
+923	Jan Metzler	995653004	JanMetzler	CDU-Direktkandidat für den Bundestag im Wahlkreis Worms. Begleitet mich in einem spannenden Wahlkampf!	CDU
+924	Mona Neubaur	997435561	Monachistin	Grüne, Düsseldorferin, Fortuna!, Bundestagsdirektkandidatin für den Wahlkreis 106. Olé Olé	Die Grünen
+925	Thomas Winzberg	999541860	_ThWi_	Eine Kuh macht muh, viele Kühe machen Mühe	Piratenpartei
+926	Bartosz Lotarewicz	1001537094	bartosz_lo	Bundestagskandidat #wk86 Bezirksverordneter von @Gruene_Lbg in der #bvvlbg Ausschüsse: #Wirtschaft und Arbeit (Vorsitzender), #JHA, #RBBV, #Integration	Die Grünen
+927	Hannes Munzinger	1003800440	hannesmunzinger	Sozialdemokrat | Bundestagskandidat im Wahlkreis 294 Ravensburg |	SPD
+928	Anneliese Moser	1006669020	MoserAnneliese		FDP
+929	Julius Hahn	1011609878	HSKPirat	Pirat, Direktkandidat für die Bundestagswahl 2013 im Wahlkreis 147 Hochsauerlandkreis, Mitglied in der Freiwilligen Feuerwehr, KEC-Fan, Lebenslang Grün-Weiß!	Piratenpartei
+930	Thomas  Schmitt 	1016050250	ThomasJoSchmitt	MdL, Saarland, CDU, Vors. Bildungsausschuss, kultur- u. wissenschaftspol. Sprecher, stellv. Vors. Chorverband und Landesakademie f.musisch-kulturelle Bildung	CDU
+931	Heiko Wittig	1018406797	HeikoWittig1		SPD
+932	Sebastian Czich	1026986804	4staradm1ral	BTW 2013 Direktkandidat der Piraten im WK153 - BPT2013 Wahlhelfer a.D.	Piratenpartei
+933	Arno Klare	1028440310	arnoklare		SPD
+934	Marie Dazert	1058796770	marie_dazert	Grüne Bundestagskandidatin für Hamm Lünen Werne und Selm	Die Grünen
+935	Arne Lietz	1063589060	ArneLietz	SPD-Bundestagskandidat für Dessau-Roßlau und den Landkreis Wittenberg	SPD
+936	Stefan Liebich	1065899292	berlinliebich	MP, Left Party	Die Linke
+937	Bernd Buchholz	1073605033	BerndBuchholz		FDP
+938	Sebastian Hartmann	1076269195	sebast_hartmann	Bundestagskandidat und Vorsitzender der SPD Rhein-Sieg	SPD
+939	Christophe Lüttmann	1076401922	CLuettmann	freier Finanzberater, Österreichische Nationalökonomie, Hayek, FDP, Fachwirt	FDP
+940	Karsten Möring	1099159964	KarstenMoering	Karsten Möring, MdR, Bundestagskandidat der CDU Köln für Porz, Kalk, Deutz, Innenstadt Nord	CDU
+941	Gabriele Katzmarek	1106401321	GabiKatzmarek		SPD
+942	Silvia Lübcke	1109673536	SilviaLuebcke	Ehefrau,Mutter, Selbstständige. Politisch sehr interessiert, Vorsitzende der CDU Kreisfrauenunion und im Moment im Auricher Stadtrat tätig und offen für Neues	CDU
+943	Michael Roth	1114675538	MiRo_SPD	Überzeugter Europäer (ja, gibt es noch), Kämpfer für den Wechsel in Hessen und im Bund, Generalsekretär der HessenSPD, europapol. Sprecher der SPD-Fraktion	SPD
+944	Johanna Uekermann	1116530071	j_uekermann	stv. Juso-Bundesvorsitzende, Bundestagskandidatin in Straubing-Regen	SPD
+945	Stefan Schwartze	1117526742	s_schwartze	Mitglied des Deutschen Bundestags für den Wahlkreis Herford & Bad Oeynhausen/Minden-Lübbecke (SPD). Ich poste unter #stefan & mein Team unter #ts.	SPD
+946	Achim Post	1117749912	Achim_P	SPD-Bundestagskandidat für den Wahlkreis Minden-Lübbecke. Generalsekretär der SPE & internationaler Sekretär der SPD. Ich poste unter #ap, mein Team unter #tap.	SPD
+947	Helmut Nowak	1120117190	Helmut_Nowak	CDU-Bundestagskandidat im Wahlkreis 101 Leverkusen/Köln IV	CDU
+948	Thomas Heldberg	1120191398	heldberg77	Generalsekretär FDP-Landesverband M-V	FDP
+949	Sebastian Wiesendahl	1122333511	HerkulesAmStart		Piratenpartei
+950	Linus Stieldorf	1122415956	LinusStieldorf	Bundestagskandidat der FDP für den Kreis Heinsberg	FDP
+951	Marco Radojevic	1124866436	RadojevicMarco	Marco Radojevic ist Bundestagskandidat der Partei DIE LINKE in Konstanz	Die Linke
+952	Britta Haßelmann	1131092102	BriHasselmann	Parlamentarische Geschäftsführerin + kommunalpolitische Sprecherin der Bundestagsfraktion Bündnis 90 / Grüne	Die Grünen
+953	Siegmund Ehrmann	1131372344	EhrmannSiggi		SPD
+954	Chris Kühn	1143130812	ChrisKuehn2013	Grüner Kandidat für die Bundestagswahl 2013 im Wahlkreis 290 Tübingen. Tweets von Chris persönlich sind mit /ck gekennzeichnet.	Die Grünen
+955	Stephanie Erben	1147508358	StephanieErben	Musikerin und Kulturmanagerin | Grüne Kreissprecherin, LaVo-Mitglied in Thüringen, Bundestagskandidatin 2013	Die Grünen
+956	Cornelia Kunkis-Becker	1151102448	KunkisBecker	Cornelia Kunkis-Becker, Bundestagskandidatin für Schwarzwald-Baar-Kreis. Mit Listenplatz 19 hat sie gute Chancen, im Herbst 2013 in den Bundestag einzuziehen.	Die Grünen
+957	Annette Schavan	1151950350	AnnetteSchavan	Mitglied des Deutschen Bundestages für Ulm und den Alb-Donau-Kreis	CDU
+958	Lucia Biedermann	1158102337	LuciaBiedermann	Rechtsanwältin, Mutter, Stadträtin in Bruchsal, Bundestagskandidatin, engagiert für die Region Bruchsal-Schwetzingen	FDP
+959	Matthias Hauer	1158585210	MatthiasHauer	CDU Bundestagskandidat im Essener Süden und Westen	CDU
+960	Maximilian Krah	1162901370	KrahMax		CDU
+961	Andreas Bärisch	1166512026	Corny1981	Wer rastet der rostet, nur wer sich ändert bleibt sich treu!! Direktkandidat WK 155 (Meißen) Homepage: http://t.co/us9FnvmTwj	Piratenpartei
+962	Torsten Staffeldt	1178820480	ToStaffeldt	Mitglied des 17. Deutschen Bundestages für Bremen und Bremerhaven - Es schreiben Torsten Staffeldt und sein Team.	FDP
+963	Alexander S. Neu	1182878557	AlexanderSNeu		Die Linke
+964	Jürgen Renner	1187330798	Juergen_Renner	Sozi, Sprachrohr des Ministeriums für Bildung und Kultur.	SPD
+965	Claudia Heber	1187612064	ClaudiaHeber	Verwaltungstante und mehrfach Mama mit Leidenschaft für konservative Politik und meine katholische Kirche!	CDU
+966	Cordula Ungruh	1187617890	CordulaUngruh	Meine Vorstellungen, Aktivitäten und Vorschläge für eine besser organisierte Gesellschaft	Die Grünen
+967	Lars Büsing	1189268659	piratenstaat		Piratenpartei
+968	Karsten Jung	1192073448	DrKarstenJung	Theologe, Historiker, Freiheitsaktivist, Bundestagskandidat	FDP
+969	Annette Sawade	1192966249	AnnetteSawade	Mitglied des Deutschen Bundestages für Schwäbisch Hall - Hohenlohe	SPD
+970	Loi Vo	1193355614	loi_fdp		FDP
+971	Volker Berkhout	1195402260	volkerberkhout	Bundestagskandidat der Piratenpartei Hessen und Mitglied der Regionalversammlung Nordhessen	Piratenpartei
+972	Norbert Wett	1196740118	DrNorbertWett	Kompetent. Sympathisch. Engagiert.Ihr Bundestagskandidat im Wahlkreis 168 Kassel	CDU
+973	Kerstin Weide	1199617855	KerstinWeideSPD	Bundestagskandidatin Landkreis Elbe Elster, OSL II	SPD
+974	Jörg Weisse	1202163528	JoergWeisse	Patentanwalt	FDP
+975	Toni Rotter	1213787738	Toni_Rotter	Seriöslicher Account :P	Piratenpartei
+976	Michael Lemke	1222742726	LemkeBuxtehude	BUXTEHUDE ..  die Märchenstadt von Has und Igel ist meine Heimat	Die Grünen
+977	Matern von Marschall	1227428528	Von_Marschall		CDU
+978	Carolin  Tönges	1234537183	CarolineToenges	Kreisvorsitzende GRÜNE Waldeck-Frankenberg	Die Grünen
+979	Roland Löpke	1238926458	piratroland	Pirat, Direktkandidat WK139 Ennepe-Ruhr-Kreis II	Piratenpartei
+980	Linus Vollmar	1241783677	LinusVollmar	FDP-Direktkandidat im Bundestagswahlkreis 76 (Berlin-Pankow)	FDP
+981	Stefanie Gruner	1247347765	StefanieGruner		Die Grünen
+982	Carolin  Röhrig	1255276374	CarosTweet		CDU
+983	Nikolaus Dorsch	1257613826	nikolaus_dorsch		SPD
+984	Marcel Freihorst	1257797214	MarcelFreihorst		CDU
+985	Jacqueline Krüger	1259103439	Jac_Krueger	liberal, Leseratte, Mutter, leidenschaftliche Potsdamerin & Brandenburgerin, FDP Kandidatin Wahlkreis 61 für den deutschen Bundestag,	FDP
+986	Thomas Iseke	1261730892	thomasiseke		FDP
+987	Patrick Breyer	1266754981	patrickbreyer	Innoffizieller Fan Account von Patrick Breyer.Wer das ließt hat Twitter seine Daten schon verkauft!	Piratenpartei
+988	Angelika Gunkel	1272182376	AgGunkel	Mitglied der Kreistagsfraktion Main-Kinzig für Bündnis 90/Die GRÜNEN, Direktkandidatin Bundestagswahl 2013 für den Wahlkreis 180	Die Grünen
+989	Karsta Rickels	1272921048	KarstaLR		SPD
+990	Bernd Westphal	1278143246	bestphal	SPD-Bundestagskandidat des Wahlkreises Hildesheim, Gewerkschaftssekretär @IGBCE, Ehemann, Vater, Schalker mit viel Sympathie für Hannover 96.	SPD
+991	Eva Marie Plonske	1279772372	EvaMariePlonske		Die Grünen
+992	Tilo Kießling	1280485458	kieszling	Der Account fürs Politische.	Die Linke
+993	Martin Kaschny	1281495996	MartinKaschny	Kandidat der FDP für die Bundestagswahl 2013 (Wahlkreis Koblenz)Hochschullehrer, Wirtschaftswissenschaftler, Familienvater.	FDP
+994	Dagmar Enkelmann	1285400528	dagmarenkelmann	Erste Parlamentarische Geschäftsführerin DIE LINKE im Bundestag, Vorsitzende Rosa-Luxemburg-Stiftung.	Die Linke
+995	Kirsten Tackmann	1294725486	KirstenTackmann	geboren in THÜ, aufgewachsen in B; wohne seit 1987 in einem 60-Seelendorf; Dr. med. vet.,seit 2005 MdB für DIE LINKE, Agrarpolitikerin, verheiratet, 2 Kinder	Die Linke
+996	Angelika Nake	1303101486	angelikanake		FDP
+997	Xaver Jung	1313226002	XaverJung		CDU
+998	Ludger Klein-Ridder	1339230319	LukretKlein	Pazifist, Antimilitarist, Antifaschist, Umweltvorkämpfer, Vertreter des Bedingungslosen Grundeinkommens, fortschrittlicher Gewerkschafter	Die Linke
+999	Volker Görzel	1350059078	VGoerzelFDP	Kandidat zur Bundestagswahl für den Wahlkreis Köln IIIBegleitet mich in den nächsten Monaten in meinem Wahlkampf. Auf nach Berlin! Ich freu mich.	FDP
+1000	Michael Slobidnyk	1356584034	mikeslobidnyk	Koch und Pirat mit Leib und Seele	Piratenpartei
+1001	Axel Schwenk	1359193471	KevinCostner99	Direktkandidat zur Bundestagswahl 2013 Limburg/Weilburg und Rheingau-TaunusPressebeauftragter Piraten Limburg-Weilburghttp://t.co/hDqbUeKES5	Piratenpartei
+1002	Thomas Ganskow	1369650912	tomvomizh		Piratenpartei
+1003	Volker Mosblech	1369718948	mosblechvolker	selbstständiger Versicherungskaufmann ; CDU ; Bundestagskandidat für den Wahlkreis Duisburg II	CDU
+1004	Mark Hauptmann	1370491088	MarkHauptmann	CDU-Bundestagskandidat im Wahlkreis 197 (Hildburghausen, Schmalkalden-Meiningen, Suhl)	CDU
+1005	Philipp Tacer	1372382604	philipptacer	Bundestagskandidat für den Wahlkreis Düsseldorf-Nord / Sozialdemokrat / Kommunalpolitiker in der Landeshauptstadt Düsseldorf /	SPD
+1006	Matthias Mnich	1377017262	MatthiasMnich	Bundestagsdirektkandidat für DIE LINKE im Wahlkreis 65 (Elbe-Elster/Oberspreewald-Lausitz II);Rechtsanwalt und Fachanwalt für Steuerrecht	Die Linke
+1007	Gabi Fograscher	1381420976	GabiFograscher	Mitglied des Deutschen BundestagesSPDBayern	SPD
+1008	Annette Greilich	1382366718	GreilichAnnette		FDP
+1009	Thomas Gundelbacher	1385457650	TGundelbacher	--------------------------Pirat aus Überzeugung---------------------   Direktkandidat der Piraten im WK47 zur Bundestagswahl 2013	Piratenpartei
+1010	Sebastian Tröbs	1388149303	SebastianTroebs		Die Grünen
+1011	Markus Uhl	1391875208	uhl_markus	Landesvorsitzender @jusaar	CDU
+1012	Hans-Peter Friedrich	1391940144	friedrich_csu	CSU, MdB, Bundesminister des Innern. Gegen alles von außen. Satire.	CSU
+1013	Ulrike Quoos	1395041222	qrieke		FDP
+1014	Peter Schanz	1399159362	SchanzPeter	GRÜNEN Bundestagskandidat Wahlkreis WaldshutKreisvorstand KV WT, Kreisrat, GemeinderatSelbstständiger Architekt BDA	Die Grünen
+1015	Siegfried Schlosser	1402997124	Sigi_direkt		Piratenpartei
+1016	Thomas Rauscher	1407098516	Rauscher_RO		FDP
+1017	Kurt Klein	1418581927	KurtKleinDU	Vorsitzender des Kreisverbandes Duisburg der Piratenpartei. Direktkandidat der Piratenpartei Duisburg WK 116	Piratenpartei
+1018	Thomas Nord	1421571306	NordMdb	Die Linke	Die Linke
+1019	Renate Künast	1425265488	RenateKuenast	Fraktionsvorsitzende #Grüne Bundestagsfraktion. Wahlkreis #Berlin Tempelhof-Schöneberg. Team twittert mit //TR	Die Grünen
+1020	Karl-Heinz Renner	1427147892	khrkrefeld	Radle, laufe, schwimme, lese, fotografiere und reise gerne und versuche, die Welt ein wenig zu verbessern - deshalb: meine Stimme für Grün.	Die Grünen
+1021	Kevin Walther	1428931453	KevinWaltherSPD		SPD
+1022	Andrea Lindholz	1446031532	AndreaLindholz	Rechtsanwältin, stv. Landrätin, Bundestagsdirektkandidatin im Wahlkreis Aschaffenburg (247), verheiratet, 1 tollen Sohn, Bikerin, Berggeherin	CSU
+1023	Michael Schulte	1448785724	Michael81904470	Bundestagskandidat für den Märkischen Kreis II ((Menden, Hemer, Iserlohn, Balve, Neuenrade, Altena, Nachrodt-Wiblingwerde, Werdohl, Plettenberg)	FDP
+1024	Olaf Müller	1456839854	OMueller_Jena		Die Grünen
+1025	Manuel Kronschnabel	1464177307	MKronschnabel		CSU
+1026	Julia Verlinden	1475734592	julia_verlinden	#Bundestagskandidatin #Grüne Meine Themen: #Energiewende #Energetische Gebäudesanierung #Klima #Umweltschutz	Die Grünen
+1027	Holger Peckmann	1498087628	derpecke		Piratenpartei
+1028	Daniel  Morteza	1507350966	DanielMorteza		Die Linke
+1029	Heiko  Windisch	1570178954	wk189		Piratenpartei
