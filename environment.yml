@@ -5,6 +5,7 @@ channels:
 dependencies:
   - python
   - numpy
+  - scipy
   - networkx
   - matplotlib
   - pandas
