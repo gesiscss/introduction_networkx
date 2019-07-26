@@ -7,7 +7,7 @@ dependencies:
   - numpy
   - mpmath
   - scipy
-  - networkx
+  - networkx=2.3
   - matplotlib
   - pandas
   - pip:
