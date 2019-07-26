@@ -1,4 +1,4 @@
-agent	fact
+transaction	fact
 a1	f1
 a1	f2
 a1	f3
