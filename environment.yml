@@ -3,12 +3,12 @@ channels:
   - conda-forge
   - anaconda
 dependencies:
-  - python
-  - numpy
+  - python=3.7.3
+  - numpy=1.16.4
   - mpmath
   - scipy
   - networkx=2.3
   - matplotlib
-  - pandas
+  - pandas=0.25.0
   - pip:
-    - powerlaw
+    - powerlaw=1.4.4
