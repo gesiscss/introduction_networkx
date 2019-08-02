@@ -1,14 +1,14 @@
-name: example-environment
+name: networkx-environment
 channels:
   - conda-forge
   - anaconda
 dependencies:
-  - python=3.7.3
-  - numpy=1.16.4
+  - python
+  - numpy
   - mpmath
   - scipy
   - networkx=2.3
   - matplotlib
-  - pandas=0.25.0
+  - pandas
   - pip:
-    - powerlaw=1.4.4
+    - powerlaw
